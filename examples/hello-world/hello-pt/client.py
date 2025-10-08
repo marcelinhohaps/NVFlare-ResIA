@@ -64,6 +64,11 @@ def main():
         model.to(device)
 
         steps = epochs * len(train_loader)
+        
+        # Acumular loss de TODAS as épocas
+        total_loss = 0.0
+        total_batches = 0
+        
         for epoch in range(epochs):
             running_loss = 0.0
             for i, batch in enumerate(train_loader):
@@ -75,17 +80,27 @@ def main():
                 cost.backward()
                 optimizer.step()
 
-                running_loss += cost.cpu().detach().numpy() / images.size()[0]
+                running_loss += cost.cpu().detach().numpy()
+                
                 if i % 3000 == 0:
-                    print(f"site={client_name}, Epoch: {epoch}/{epochs}, Iteration: {i}, Loss: {running_loss / 3000}")
-                    global_step = input_model.current_round * steps + epoch * len(train_loader) + i
-                    summary_writer.add_scalar(
-                        tag="loss_for_each_batch", scalar=float(running_loss), global_step=global_step
-                    )
-                    running_loss = 0.0
+                    print(f"site={client_name}, Epoch: {epoch}/{epochs}, Iteration: {i}")
+            
+            total_loss += running_loss
+            total_batches += len(train_loader)
+            
+            avg_epoch_loss = running_loss / len(train_loader)
+            print(f"site={client_name}, Epoch: {epoch}/{epochs}, Average Loss: {avg_epoch_loss}")
+        
+        avg_round_loss = total_loss / total_batches
+        summary_writer.add_scalar(
+            tag="loss_per_round", 
+            scalar=float(avg_round_loss), 
+            global_step=input_model.current_round 
+        )
+        print(f"site={client_name}, Round {input_model.current_round}, Average Loss: {avg_round_loss}")
 
         print(f"Finished Training for {client_name}")
-
+        
         PATH = "./cifar_net.pth"
         torch.save(model.state_dict(), PATH)
 
