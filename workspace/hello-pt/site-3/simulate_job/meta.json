@@ -1,0 +1,23 @@
+{
+    "name": "hello-pt",
+    "resource_spec": {},
+    "min_clients": 3,
+    "deploy_map": {
+        "app": [
+            "@ALL"
+        ]
+    },
+    "job_folder_name": "hello-pt",
+    "byoc": true,
+    "job_clients": [
+        {
+            "name": "site-1"
+        },
+        {
+            "name": "site-2"
+        },
+        {
+            "name": "site-3"
+        }
+    ]
+}

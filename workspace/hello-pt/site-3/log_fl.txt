@@ -1,0 +1,73 @@
+2025-10-08 19:26:36,885 - TaskScriptRunner - INFO - start task run() with full path: /home/marcelohaps/NVFlare-ResIA/workspace/hello-pt/site-3/simulate_job/app_site-3/custom/client.py
+2025-10-08 19:26:36,943 - PTInProcessClientAPIExecutor - INFO - [identity=site-3, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=a045e084-6045-4b52-9ffd-d30c67587e91] - execute for task (train)
+2025-10-08 19:26:36,944 - PTInProcessClientAPIExecutor - INFO - [identity=site-3, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=a045e084-6045-4b52-9ffd-d30c67587e91] - send data to peer
+2025-10-08 19:26:36,944 - PTInProcessClientAPIExecutor - INFO - [identity=site-3, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=a045e084-6045-4b52-9ffd-d30c67587e91] - sending payload to peer
+2025-10-08 19:26:36,947 - PTInProcessClientAPIExecutor - INFO - [identity=site-3, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=a045e084-6045-4b52-9ffd-d30c67587e91] - Waiting for result from peer
+2025-10-08 19:26:38,347 - TaskScriptRunner - INFO - site = site-3, current_round=0
+2025-10-08 19:26:38,998 - TaskScriptRunner - INFO - site=site-3, Epoch: 0/2, Iteration: 0
+2025-10-08 19:26:53,094 - TaskScriptRunner - INFO - site=site-3, Epoch: 0/2, Iteration: 3000
+2025-10-08 19:26:53,676 - TaskScriptRunner - INFO - site=site-3, Epoch: 0/2, Average Loss: 1.6484222412109375
+2025-10-08 19:26:53,682 - TaskScriptRunner - INFO - site=site-3, Epoch: 1/2, Iteration: 0
+2025-10-08 19:27:08,160 - TaskScriptRunner - INFO - site=site-3, Epoch: 1/2, Iteration: 3000
+2025-10-08 19:27:08,761 - TaskScriptRunner - INFO - site=site-3, Epoch: 1/2, Average Loss: 1.3524435758590698
+2025-10-08 19:27:08,763 - TaskScriptRunner - INFO - site=site-3, Round 0, Average Loss: 1.5004328489303589
+2025-10-08 19:27:08,764 - TaskScriptRunner - INFO - Finished Training for site-3
+2025-10-08 19:27:08,769 - TaskScriptRunner - INFO - site: site-3, sending model to server.
+2025-10-08 19:27:11,182 - PTInProcessClientAPIExecutor - INFO - [identity=site-3, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=45a189b7-0489-44d8-879e-9819fc2fa19e] - execute for task (train)
+2025-10-08 19:27:11,183 - PTInProcessClientAPIExecutor - INFO - [identity=site-3, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=45a189b7-0489-44d8-879e-9819fc2fa19e] - send data to peer
+2025-10-08 19:27:11,183 - PTInProcessClientAPIExecutor - INFO - [identity=site-3, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=45a189b7-0489-44d8-879e-9819fc2fa19e] - sending payload to peer
+2025-10-08 19:27:11,184 - PTInProcessClientAPIExecutor - INFO - [identity=site-3, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=45a189b7-0489-44d8-879e-9819fc2fa19e] - Waiting for result from peer
+2025-10-08 19:27:11,272 - TaskScriptRunner - INFO - site = site-3, current_round=1
+2025-10-08 19:27:11,280 - TaskScriptRunner - INFO - site=site-3, Epoch: 0/2, Iteration: 0
+2025-10-08 19:27:24,906 - TaskScriptRunner - INFO - site=site-3, Epoch: 0/2, Iteration: 3000
+2025-10-08 19:27:25,478 - TaskScriptRunner - INFO - site=site-3, Epoch: 0/2, Average Loss: 1.3046766519546509
+2025-10-08 19:27:25,485 - TaskScriptRunner - INFO - site=site-3, Epoch: 1/2, Iteration: 0
+2025-10-08 19:27:39,636 - TaskScriptRunner - INFO - site=site-3, Epoch: 1/2, Iteration: 3000
+2025-10-08 19:27:40,246 - TaskScriptRunner - INFO - site=site-3, Epoch: 1/2, Average Loss: 1.2317290306091309
+2025-10-08 19:27:40,249 - TaskScriptRunner - INFO - site=site-3, Round 1, Average Loss: 1.268202781677246
+2025-10-08 19:27:40,249 - TaskScriptRunner - INFO - Finished Training for site-3
+2025-10-08 19:27:40,255 - TaskScriptRunner - INFO - site: site-3, sending model to server.
+2025-10-08 19:27:42,398 - PTInProcessClientAPIExecutor - INFO - [identity=site-3, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=c20d8341-a4d4-4cb3-80bf-aeef230b607b] - execute for task (train)
+2025-10-08 19:27:42,399 - PTInProcessClientAPIExecutor - INFO - [identity=site-3, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=c20d8341-a4d4-4cb3-80bf-aeef230b607b] - send data to peer
+2025-10-08 19:27:42,399 - PTInProcessClientAPIExecutor - INFO - [identity=site-3, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=c20d8341-a4d4-4cb3-80bf-aeef230b607b] - sending payload to peer
+2025-10-08 19:27:42,400 - PTInProcessClientAPIExecutor - INFO - [identity=site-3, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=c20d8341-a4d4-4cb3-80bf-aeef230b607b] - Waiting for result from peer
+2025-10-08 19:27:42,758 - TaskScriptRunner - INFO - site = site-3, current_round=2
+2025-10-08 19:27:42,767 - TaskScriptRunner - INFO - site=site-3, Epoch: 0/2, Iteration: 0
+2025-10-08 19:27:56,354 - TaskScriptRunner - INFO - site=site-3, Epoch: 0/2, Iteration: 3000
+2025-10-08 19:27:56,922 - TaskScriptRunner - INFO - site=site-3, Epoch: 0/2, Average Loss: 1.1629270315170288
+2025-10-08 19:27:56,931 - TaskScriptRunner - INFO - site=site-3, Epoch: 1/2, Iteration: 0
+2025-10-08 19:28:12,623 - TaskScriptRunner - INFO - site=site-3, Epoch: 1/2, Iteration: 3000
+2025-10-08 19:28:13,243 - TaskScriptRunner - INFO - site=site-3, Epoch: 1/2, Average Loss: 1.1567704677581787
+2025-10-08 19:28:13,245 - TaskScriptRunner - INFO - site=site-3, Round 2, Average Loss: 1.1598488092422485
+2025-10-08 19:28:13,246 - TaskScriptRunner - INFO - Finished Training for site-3
+2025-10-08 19:28:13,250 - TaskScriptRunner - INFO - site: site-3, sending model to server.
+2025-10-08 19:28:15,560 - PTInProcessClientAPIExecutor - INFO - [identity=site-3, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=0a9efad2-683d-493f-ac80-dccbccf89999] - execute for task (train)
+2025-10-08 19:28:15,561 - PTInProcessClientAPIExecutor - INFO - [identity=site-3, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=0a9efad2-683d-493f-ac80-dccbccf89999] - send data to peer
+2025-10-08 19:28:15,561 - PTInProcessClientAPIExecutor - INFO - [identity=site-3, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=0a9efad2-683d-493f-ac80-dccbccf89999] - sending payload to peer
+2025-10-08 19:28:15,561 - PTInProcessClientAPIExecutor - INFO - [identity=site-3, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=0a9efad2-683d-493f-ac80-dccbccf89999] - Waiting for result from peer
+2025-10-08 19:28:15,753 - TaskScriptRunner - INFO - site = site-3, current_round=3
+2025-10-08 19:28:15,763 - TaskScriptRunner - INFO - site=site-3, Epoch: 0/2, Iteration: 0
+2025-10-08 19:28:30,166 - TaskScriptRunner - INFO - site=site-3, Epoch: 0/2, Iteration: 3000
+2025-10-08 19:28:30,780 - TaskScriptRunner - INFO - site=site-3, Epoch: 0/2, Average Loss: 1.0931581258773804
+2025-10-08 19:28:30,788 - TaskScriptRunner - INFO - site=site-3, Epoch: 1/2, Iteration: 0
+2025-10-08 19:28:46,163 - TaskScriptRunner - INFO - site=site-3, Epoch: 1/2, Iteration: 3000
+2025-10-08 19:28:46,763 - TaskScriptRunner - INFO - site=site-3, Epoch: 1/2, Average Loss: 1.0905389785766602
+2025-10-08 19:28:46,764 - TaskScriptRunner - INFO - site=site-3, Round 3, Average Loss: 1.091848611831665
+2025-10-08 19:28:46,765 - TaskScriptRunner - INFO - Finished Training for site-3
+2025-10-08 19:28:46,770 - TaskScriptRunner - INFO - site: site-3, sending model to server.
+2025-10-08 19:28:49,288 - PTInProcessClientAPIExecutor - INFO - [identity=site-3, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=44ee36f6-e331-443b-aaa4-32b28e8a0037] - execute for task (train)
+2025-10-08 19:28:49,289 - PTInProcessClientAPIExecutor - INFO - [identity=site-3, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=44ee36f6-e331-443b-aaa4-32b28e8a0037] - send data to peer
+2025-10-08 19:28:49,289 - PTInProcessClientAPIExecutor - INFO - [identity=site-3, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=44ee36f6-e331-443b-aaa4-32b28e8a0037] - sending payload to peer
+2025-10-08 19:28:49,289 - PTInProcessClientAPIExecutor - INFO - [identity=site-3, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=44ee36f6-e331-443b-aaa4-32b28e8a0037] - Waiting for result from peer
+2025-10-08 19:28:49,774 - TaskScriptRunner - INFO - site = site-3, current_round=4
+2025-10-08 19:28:49,787 - TaskScriptRunner - INFO - site=site-3, Epoch: 0/2, Iteration: 0
+2025-10-08 19:29:04,408 - TaskScriptRunner - INFO - site=site-3, Epoch: 0/2, Iteration: 3000
+2025-10-08 19:29:05,009 - TaskScriptRunner - INFO - site=site-3, Epoch: 0/2, Average Loss: 1.0382671356201172
+2025-10-08 19:29:05,018 - TaskScriptRunner - INFO - site=site-3, Epoch: 1/2, Iteration: 0
+2025-10-08 19:29:20,132 - TaskScriptRunner - INFO - site=site-3, Epoch: 1/2, Iteration: 3000
+2025-10-08 19:29:20,689 - TaskScriptRunner - INFO - site=site-3, Epoch: 1/2, Average Loss: 1.0700657367706299
+2025-10-08 19:29:20,691 - TaskScriptRunner - INFO - site=site-3, Round 4, Average Loss: 1.0541664361953735
+2025-10-08 19:29:20,691 - TaskScriptRunner - INFO - Finished Training for site-3
+2025-10-08 19:29:20,696 - TaskScriptRunner - INFO - site: site-3, sending model to server.
+2025-10-08 19:29:22,968 - InProcessClientAPI - WARNING - ask to stop job: reason: END_RUN received
+2025-10-08 19:29:23,199 - InProcessClientAPI - WARNING - request to stop the job for reason END_RUN received
