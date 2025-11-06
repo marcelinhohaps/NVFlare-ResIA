@@ -1,0 +1,74 @@
+_wandb:
+    value:
+        cli_version: 0.22.3
+        e:
+            nxeoirpedru94uo55l238rl2vyw4ackt:
+                args:
+                    - /tmp/tmpq7jmzmix/adult_fedavg_quantity-skew
+                    - -w
+                    - /home/marcelohaps/NVFlare-ResIA/custom/workspace_adult/adult_fedavg_quantity-skew
+                    - -c
+                    - site-1,site-2,site-3,site-4,site-5,site-6,site-7,site-8,site-9,site-10
+                    - -n
+                    - "10"
+                    - -t
+                    - "10"
+                cpu_count: 6
+                cpu_count_logical: 12
+                cudaVersion: "12.9"
+                disk:
+                    /:
+                        total: "1081101176832"
+                        used: "86786547712"
+                email: marceloha12345@gmail.com
+                executable: /home/marcelohaps/miniconda3/envs/nvidia/bin/python3
+                git:
+                    commit: 5a5c7c9d37d9b5c5377645fe20f70fee6b6f2071
+                    remote: https://github.com/marcelinhohaps/NVFlare-ResIA.git
+                gpu: NVIDIA GeForce RTX 3090
+                gpu_count: 1
+                gpu_nvidia:
+                    - architecture: Ampere
+                      memoryTotal: "25769803776"
+                      name: NVIDIA GeForce RTX 3090
+                      uuid: GPU-e5aae3e0-bf6a-350f-5c60-d2fad0c1099b
+                host: marcelo
+                memory:
+                    total: "16744886272"
+                os: Linux-5.15.167.4-microsoft-standard-WSL2-x86_64-with-glibc2.35
+                program: -m nvflare.private.fed.app.simulator.simulator
+                python: CPython 3.11.14
+                root: /home/marcelohaps/NVFlare-ResIA/custom/workspace_adult/adult_fedavg_quantity-skew/server
+                startedAt: "2025-11-04T11:42:21.489645Z"
+                writerId: nxeoirpedru94uo55l238rl2vyw4ackt
+        m: []
+        python_version: 3.11.14
+        t:
+            "1":
+                - 1
+            "2":
+                - 1
+            "3":
+                - 2
+                - 13
+                - 15
+                - 16
+                - 61
+            "4": 3.11.14
+            "5": 0.22.3
+            "12": 0.22.3
+            "13": linux-x86_64
+alpha:
+    value: 0.5
+batch_size:
+    value: 64
+client:
+    value: site-9
+job_id:
+    value: "1762256538"
+lr:
+    value: 0.01
+n_clients:
+    value: 10
+run_name:
+    value: adult-fedavg

@@ -1,0 +1,48 @@
+{
+  "os":  "Linux-5.15.167.4-microsoft-standard-WSL2-x86_64-with-glibc2.35",
+  "python":  "CPython 3.10.12",
+  "startedAt":  "2025-11-03T18:23:03.630975Z",
+  "args":  [
+    "/tmp/tmp_e60g4mw/mnist_fedavg_quantity-skew",
+    "-w",
+    "/home/marcelohaps/NVFlare-ResIA/custom/workspace_mnist/mnist_fedavg_quantity-skew",
+    "-c",
+    "site-1,site-2,site-3,site-4,site-5,site-6,site-7,site-8,site-9,site-10",
+    "-n",
+    "10",
+    "-t",
+    "10"
+  ],
+  "program":  "-m nvflare.private.fed.app.simulator.simulator",
+  "git":  {
+    "remote":  "https://github.com/marcelinhohaps/NVFlare-ResIA.git",
+    "commit":  "f4c2e017917efab6188841af5cc2f233d59116a8"
+  },
+  "email":  "marceloha12345@gmail.com",
+  "root":  "/home/marcelohaps/NVFlare-ResIA/custom/workspace_mnist/mnist_fedavg_quantity-skew/server",
+  "host":  "marcelo",
+  "executable":  "/home/marcelohaps/NVFlare-ResIA/nvidia/bin/python3",
+  "cpu_count":  6,
+  "cpu_count_logical":  12,
+  "gpu":  "NVIDIA GeForce RTX 3090",
+  "gpu_count":  1,
+  "disk":  {
+    "/":  {
+      "total":  "1081101176832",
+      "used":  "85434286080"
+    }
+  },
+  "memory":  {
+    "total":  "16744890368"
+  },
+  "gpu_nvidia":  [
+    {
+      "name":  "NVIDIA GeForce RTX 3090",
+      "memoryTotal":  "25769803776",
+      "architecture":  "Ampere",
+      "uuid":  "GPU-e5aae3e0-bf6a-350f-5c60-d2fad0c1099b"
+    }
+  ],
+  "cudaVersion":  "12.9",
+  "writerId":  "ln6aupqkvr7e1tf7qeeb2g4x0u2a5tqa"
+}

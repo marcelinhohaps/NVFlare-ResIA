@@ -1,0 +1,44 @@
+{
+    "name": "adult_fedavg_quantity-skew",
+    "resource_spec": {},
+    "min_clients": 10,
+    "deploy_map": {
+        "app": [
+            "@ALL"
+        ]
+    },
+    "job_folder_name": "adult_fedavg_quantity-skew",
+    "byoc": true,
+    "job_clients": [
+        {
+            "name": "site-1"
+        },
+        {
+            "name": "site-2"
+        },
+        {
+            "name": "site-3"
+        },
+        {
+            "name": "site-4"
+        },
+        {
+            "name": "site-5"
+        },
+        {
+            "name": "site-6"
+        },
+        {
+            "name": "site-7"
+        },
+        {
+            "name": "site-8"
+        },
+        {
+            "name": "site-9"
+        },
+        {
+            "name": "site-10"
+        }
+    ]
+}

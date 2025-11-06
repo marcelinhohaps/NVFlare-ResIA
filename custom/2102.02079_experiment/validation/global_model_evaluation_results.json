@@ -1,0 +1,110 @@
+[
+  {
+    "dataset":"adult",
+    "algorithm":"fedavg",
+    "workspace":"workspace_adult",
+    "val_accuracy":0.8637526871,
+    "val_loss":0.3022857441,
+    "model_path":"\/home\/marcelohaps\/NVFlare-ResIA\/custom\/2102.02079_experiment\/quantity_skew\/fedavg\/workspace_adult\/adult_fedavg_quantity-skew\/server\/simulate_job\/app_server\/best_FL_global_model.pt",
+    "date":"2025-11-05 16:51:23"
+  },
+  {
+    "dataset":"cifar10",
+    "algorithm":"fedavg",
+    "workspace":"workspace_cifar10",
+    "val_accuracy":0.5798,
+    "val_loss":1.2101394853,
+    "model_path":"\/home\/marcelohaps\/NVFlare-ResIA\/custom\/2102.02079_experiment\/quantity_skew\/fedavg\/workspace_cifar10\/cifar10_fedavg_quantity-skew\/server\/simulate_job\/app_server\/best_FL_global_model.pt",
+    "date":"2025-11-05 16:51:25"
+  },
+  {
+    "dataset":"covtype",
+    "algorithm":"fedavg",
+    "workspace":"workspace_covtype",
+    "val_accuracy":0.8531363218,
+    "val_loss":0.3618238732,
+    "model_path":"\/home\/marcelohaps\/NVFlare-ResIA\/custom\/2102.02079_experiment\/quantity_skew\/fedavg\/workspace_covtype\/covtype_fedavg_quantity-skew\/server\/simulate_job\/app_server\/best_FL_global_model.pt",
+    "date":"2025-11-05 16:51:27"
+  },
+  {
+    "dataset":"fmnist",
+    "algorithm":"fedavg",
+    "workspace":"workspace_fmnist",
+    "val_accuracy":0.8957,
+    "val_loss":0.3215265014,
+    "model_path":"\/home\/marcelohaps\/NVFlare-ResIA\/custom\/2102.02079_experiment\/quantity_skew\/fedavg\/workspace_fmnist\/fmnist_fedavg_quantity-skew\/server\/simulate_job\/app_server\/best_FL_global_model.pt",
+    "date":"2025-11-05 16:51:28"
+  },
+  {
+    "dataset":"mnist",
+    "algorithm":"fedavg",
+    "workspace":"workspace_mnist",
+    "val_accuracy":0.9891,
+    "val_loss":0.0505157629,
+    "model_path":"\/home\/marcelohaps\/NVFlare-ResIA\/custom\/2102.02079_experiment\/quantity_skew\/fedavg\/workspace_mnist\/mnist_fedavg_quantity-skew\/server\/simulate_job\/app_server\/best_FL_global_model.pt",
+    "date":"2025-11-05 16:51:29"
+  },
+  {
+    "dataset":"svhn",
+    "algorithm":"fedavg",
+    "workspace":"workspace_svhn",
+    "val_accuracy":0.813690842,
+    "val_loss":1.4535718373,
+    "model_path":"\/home\/marcelohaps\/NVFlare-ResIA\/custom\/2102.02079_experiment\/quantity_skew\/fedavg\/workspace_svhn\/svhn_fedavg_quantity-skew\/server\/simulate_job\/app_server\/best_FL_global_model.pt",
+    "date":"2025-11-05 16:51:32"
+  },
+  {
+    "dataset":"adult",
+    "algorithm":"fedprox",
+    "workspace":"workspace_adult",
+    "val_accuracy":0.8634455932,
+    "val_loss":0.3014882076,
+    "model_path":"\/home\/marcelohaps\/NVFlare-ResIA\/custom\/2102.02079_experiment\/quantity_skew\/fedprox\/workspace_adult\/adult_fedprox_quantity-skew\/server\/simulate_job\/app_server\/best_FL_global_model.pt",
+    "date":"2025-11-05 16:51:32"
+  },
+  {
+    "dataset":"cifar10",
+    "algorithm":"fedprox",
+    "workspace":"workspace_cifar10",
+    "val_accuracy":0.5584,
+    "val_loss":1.5761528782,
+    "model_path":"\/home\/marcelohaps\/NVFlare-ResIA\/custom\/2102.02079_experiment\/quantity_skew\/fedprox\/workspace_cifar10\/cifar10_fedprox_quantity-skew\/server\/simulate_job\/app_server\/best_FL_global_model.pt",
+    "date":"2025-11-05 16:51:33"
+  },
+  {
+    "dataset":"covtype",
+    "algorithm":"fedprox",
+    "workspace":"workspace_covtype",
+    "val_accuracy":0.8279648546,
+    "val_loss":0.413938488,
+    "model_path":"\/home\/marcelohaps\/NVFlare-ResIA\/custom\/2102.02079_experiment\/quantity_skew\/fedprox\/workspace_covtype\/covtype_fedprox_quantity-skew\/server\/simulate_job\/app_server\/best_FL_global_model.pt",
+    "date":"2025-11-05 16:51:36"
+  },
+  {
+    "dataset":"fmnist",
+    "algorithm":"fedprox",
+    "workspace":"workspace_fmnist",
+    "val_accuracy":0.8988,
+    "val_loss":0.7026220973,
+    "model_path":"\/home\/marcelohaps\/NVFlare-ResIA\/custom\/2102.02079_experiment\/quantity_skew\/fedprox\/workspace_fmnist\/fmnist_fedprox_quantity-skew\/server\/simulate_job\/app_server\/best_FL_global_model.pt",
+    "date":"2025-11-05 16:51:36"
+  },
+  {
+    "dataset":"mnist",
+    "algorithm":"fedprox",
+    "workspace":"workspace_mnist",
+    "val_accuracy":0.9926,
+    "val_loss":0.0403489885,
+    "model_path":"\/home\/marcelohaps\/NVFlare-ResIA\/custom\/2102.02079_experiment\/quantity_skew\/fedprox\/workspace_mnist\/mnist_fedprox_quantity-skew\/server\/simulate_job\/app_server\/best_FL_global_model.pt",
+    "date":"2025-11-05 16:51:37"
+  },
+  {
+    "dataset":"svhn",
+    "algorithm":"fedprox",
+    "workspace":"workspace_svhn",
+    "val_accuracy":0.8188767671,
+    "val_loss":1.5612193833,
+    "model_path":"\/home\/marcelohaps\/NVFlare-ResIA\/custom\/2102.02079_experiment\/quantity_skew\/fedprox\/workspace_svhn\/svhn_fedprox_quantity-skew\/server\/simulate_job\/app_server\/best_FL_global_model.pt",
+    "date":"2025-11-05 16:51:40"
+  }
+]

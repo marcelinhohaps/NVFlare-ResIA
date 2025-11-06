@@ -1,0 +1,100 @@
+{
+    "format_version": 2,
+    "workflows": [
+        {
+            "id": "controller",
+            "path": "nvflare.app_common.workflows.scatter_and_gather.ScatterAndGather",
+            "args": {
+                "min_clients": 10,
+                "num_rounds": 50,
+                "wait_time_after_min_received": 0,
+                "persistor_id": "persistor"
+            }
+        }
+    ],
+    "components": [
+        {
+            "id": "json_generator",
+            "path": "nvflare.app_common.widgets.validation_json_generator.ValidationJsonGenerator",
+            "args": {}
+        },
+        {
+            "id": "model_selector",
+            "path": "nvflare.app_common.widgets.intime_model_selector.IntimeModelSelector",
+            "args": {
+                "aggregation_weights": {},
+                "key_metric": "accuracy"
+            }
+        },
+        {
+            "id": "receiver",
+            "path": "nvflare.app_opt.tracking.tb.tb_receiver.TBAnalyticsReceiver",
+            "args": {
+                "events": [
+                    "analytix_log_stats",
+                    "fed.analytix_log_stats"
+                ]
+            }
+        },
+        {
+            "id": "persistor",
+            "path": "nvflare.app_opt.pt.file_model_persistor.PTFileModelPersistor",
+            "args": {
+                "model": {
+                    "path": "custom.models.experiment.CNN.CNN",
+                    "args": {}
+                }
+            }
+        },
+        {
+            "id": "locator",
+            "path": "nvflare.app_opt.pt.file_model_locator.PTFileModelLocator",
+            "args": {
+                "pt_persistor_id": "persistor"
+            }
+        },
+        {
+            "id": "shareable_generator",
+            "path": "nvflare.app_common.shareablegenerators.full_model_shareable_generator.FullModelShareableGenerator",
+            "args": {}
+        },
+        {
+            "id": "aggregator",
+            "path": "nvflare.app_common.aggregators.intime_accumulate_model_aggregator.InTimeAccumulateWeightedAggregator",
+            "args": {
+                "expected_data_kind": "WEIGHTS"
+            }
+        },
+        {
+            "id": "receiver1",
+            "path": "nvflare.app_opt.tracking.wandb.wandb_receiver.WandBReceiver",
+            "args": {
+                "wandb_args": {
+                    "project": "CIFAR10_FEDAVG_QUANTITY-SKEW",
+                    "group": "CIFAR10_FEDAVG_QUANTITY-SKEW",
+                    "job_type": "train",
+                    "name": "cifar10-fedavg",
+                    "notes": "experimento base",
+                    "tags": [
+                        "cifar10",
+                        "fedavg",
+                        "quantity-skew"
+                    ],
+                    "config": {
+                        "lr": 0.01,
+                        "batch_size": 64,
+                        "alpha": 0.5,
+                        "n_clients": 10
+                    }
+                },
+                "mode": "online",
+                "events": [
+                    "analytix_log_stats",
+                    "fed.analytix_log_stats"
+                ]
+            }
+        }
+    ],
+    "task_data_filters": [],
+    "task_result_filters": []
+}

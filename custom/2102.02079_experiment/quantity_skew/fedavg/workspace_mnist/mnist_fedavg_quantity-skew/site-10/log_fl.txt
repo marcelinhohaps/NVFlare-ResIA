@@ -1,0 +1,753 @@
+2025-11-03 15:23:06,643 - TaskScriptRunner - INFO - start task run() with full path: /home/marcelohaps/NVFlare-ResIA/custom/client.py
+2025-11-03 15:23:06,659 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=1d33884a-ab42-4929-992b-cb54abdc32e8] - execute for task (train)
+2025-11-03 15:23:06,660 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=1d33884a-ab42-4929-992b-cb54abdc32e8] - send data to peer
+2025-11-03 15:23:06,661 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=1d33884a-ab42-4929-992b-cb54abdc32e8] - sending payload to peer
+2025-11-03 15:23:06,662 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=1d33884a-ab42-4929-992b-cb54abdc32e8] - Waiting for result from peer
+2025-11-03 15:23:11,913 - TaskScriptRunner - INFO -   Época [1/10] - Loss: 2.3054
+2025-11-03 15:23:12,185 - TaskScriptRunner - INFO -   Época [2/10] - Loss: 2.3031
+2025-11-03 15:23:12,485 - TaskScriptRunner - INFO -   Época [3/10] - Loss: 2.3006
+2025-11-03 15:23:12,775 - TaskScriptRunner - INFO -   Época [4/10] - Loss: 2.2970
+2025-11-03 15:23:13,034 - TaskScriptRunner - INFO -   Época [5/10] - Loss: 2.2955
+2025-11-03 15:23:13,290 - TaskScriptRunner - INFO -   Época [6/10] - Loss: 2.2925
+2025-11-03 15:23:13,555 - TaskScriptRunner - INFO -   Época [7/10] - Loss: 2.2893
+2025-11-03 15:23:13,802 - TaskScriptRunner - INFO -   Época [8/10] - Loss: 2.2855
+2025-11-03 15:23:14,054 - TaskScriptRunner - INFO -   Época [9/10] - Loss: 2.2832
+2025-11-03 15:23:14,312 - TaskScriptRunner - INFO -   Época [10/10] - Loss: 2.2774
+2025-11-03 15:23:16,550 - TaskScriptRunner - INFO - 📤 Modelo enviado: 170 steps, accuracy=0.2048
+2025-11-03 15:23:31,083 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=254e328e-a260-4363-b5ef-ce1336750f3f] - execute for task (train)
+2025-11-03 15:23:31,084 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=254e328e-a260-4363-b5ef-ce1336750f3f] - send data to peer
+2025-11-03 15:23:31,084 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=254e328e-a260-4363-b5ef-ce1336750f3f] - sending payload to peer
+2025-11-03 15:23:31,085 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=254e328e-a260-4363-b5ef-ce1336750f3f] - Waiting for result from peer
+2025-11-03 15:23:31,888 - TaskScriptRunner - INFO -   Época [1/10] - Loss: 0.1871
+2025-11-03 15:23:32,106 - TaskScriptRunner - INFO -   Época [2/10] - Loss: 0.1677
+2025-11-03 15:23:32,333 - TaskScriptRunner - INFO -   Época [3/10] - Loss: 0.1513
+2025-11-03 15:23:32,612 - TaskScriptRunner - INFO -   Época [4/10] - Loss: 0.1378
+2025-11-03 15:23:32,833 - TaskScriptRunner - INFO -   Época [5/10] - Loss: 0.1586
+2025-11-03 15:23:33,059 - TaskScriptRunner - INFO -   Época [6/10] - Loss: 0.1274
+2025-11-03 15:23:33,312 - TaskScriptRunner - INFO -   Época [7/10] - Loss: 0.1215
+2025-11-03 15:23:33,524 - TaskScriptRunner - INFO -   Época [8/10] - Loss: 0.1117
+2025-11-03 15:23:33,753 - TaskScriptRunner - INFO -   Época [9/10] - Loss: 0.1228
+2025-11-03 15:23:34,012 - TaskScriptRunner - INFO -   Época [10/10] - Loss: 0.1029
+2025-11-03 15:23:35,726 - TaskScriptRunner - INFO - 📤 Modelo enviado: 170 steps, accuracy=0.9536
+2025-11-03 15:23:47,341 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=0548c4cc-74b6-4056-aa88-402efac23143] - execute for task (train)
+2025-11-03 15:23:47,341 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=0548c4cc-74b6-4056-aa88-402efac23143] - send data to peer
+2025-11-03 15:23:47,342 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=0548c4cc-74b6-4056-aa88-402efac23143] - sending payload to peer
+2025-11-03 15:23:47,342 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=0548c4cc-74b6-4056-aa88-402efac23143] - Waiting for result from peer
+2025-11-03 15:23:47,893 - TaskScriptRunner - INFO -   Época [1/10] - Loss: 0.0956
+2025-11-03 15:23:48,069 - TaskScriptRunner - INFO -   Época [2/10] - Loss: 0.0953
+2025-11-03 15:23:48,238 - TaskScriptRunner - INFO -   Época [3/10] - Loss: 0.0767
+2025-11-03 15:23:48,399 - TaskScriptRunner - INFO -   Época [4/10] - Loss: 0.0596
+2025-11-03 15:23:48,585 - TaskScriptRunner - INFO -   Época [5/10] - Loss: 0.0562
+2025-11-03 15:23:48,773 - TaskScriptRunner - INFO -   Época [6/10] - Loss: 0.0467
+2025-11-03 15:23:48,964 - TaskScriptRunner - INFO -   Época [7/10] - Loss: 0.0407
+2025-11-03 15:23:49,221 - TaskScriptRunner - INFO -   Época [8/10] - Loss: 0.0388
+2025-11-03 15:23:49,448 - TaskScriptRunner - INFO -   Época [9/10] - Loss: 0.0344
+2025-11-03 15:23:49,704 - TaskScriptRunner - INFO -   Época [10/10] - Loss: 0.0383
+2025-11-03 15:23:51,854 - TaskScriptRunner - INFO - 📤 Modelo enviado: 170 steps, accuracy=0.9721
+2025-11-03 15:24:04,114 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=b713bfa7-eacf-4564-95e2-979c920a5845] - execute for task (train)
+2025-11-03 15:24:04,114 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=b713bfa7-eacf-4564-95e2-979c920a5845] - send data to peer
+2025-11-03 15:24:04,115 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=b713bfa7-eacf-4564-95e2-979c920a5845] - sending payload to peer
+2025-11-03 15:24:04,115 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=b713bfa7-eacf-4564-95e2-979c920a5845] - Waiting for result from peer
+2025-11-03 15:24:04,557 - TaskScriptRunner - INFO -   Época [1/10] - Loss: 0.0821
+2025-11-03 15:24:04,675 - TaskScriptRunner - INFO -   Época [2/10] - Loss: 0.0612
+2025-11-03 15:24:04,800 - TaskScriptRunner - INFO -   Época [3/10] - Loss: 0.0438
+2025-11-03 15:24:04,934 - TaskScriptRunner - INFO -   Época [4/10] - Loss: 0.0362
+2025-11-03 15:24:05,093 - TaskScriptRunner - INFO -   Época [5/10] - Loss: 0.0309
+2025-11-03 15:24:05,254 - TaskScriptRunner - INFO -   Época [6/10] - Loss: 0.0249
+2025-11-03 15:24:05,397 - TaskScriptRunner - INFO -   Época [7/10] - Loss: 0.0227
+2025-11-03 15:24:05,578 - TaskScriptRunner - INFO -   Época [8/10] - Loss: 0.0217
+2025-11-03 15:24:05,746 - TaskScriptRunner - INFO -   Época [9/10] - Loss: 0.0183
+2025-11-03 15:24:05,951 - TaskScriptRunner - INFO -   Época [10/10] - Loss: 0.0186
+2025-11-03 15:24:08,097 - TaskScriptRunner - INFO - 📤 Modelo enviado: 170 steps, accuracy=0.9801
+2025-11-03 15:24:22,321 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=d6b3c2ff-596e-4322-8716-d997c4c436fe] - execute for task (train)
+2025-11-03 15:24:22,321 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=d6b3c2ff-596e-4322-8716-d997c4c436fe] - send data to peer
+2025-11-03 15:24:22,322 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=d6b3c2ff-596e-4322-8716-d997c4c436fe] - sending payload to peer
+2025-11-03 15:24:22,326 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=d6b3c2ff-596e-4322-8716-d997c4c436fe] - Waiting for result from peer
+2025-11-03 15:24:22,841 - TaskScriptRunner - INFO -   Época [1/10] - Loss: 0.0706
+2025-11-03 15:24:23,053 - TaskScriptRunner - INFO -   Época [2/10] - Loss: 0.0452
+2025-11-03 15:24:23,338 - TaskScriptRunner - INFO -   Época [3/10] - Loss: 0.0345
+2025-11-03 15:24:23,535 - TaskScriptRunner - INFO -   Época [4/10] - Loss: 0.0243
+2025-11-03 15:24:23,707 - TaskScriptRunner - INFO -   Época [5/10] - Loss: 0.0221
+2025-11-03 15:24:23,892 - TaskScriptRunner - INFO -   Época [6/10] - Loss: 0.0195
+2025-11-03 15:24:24,069 - TaskScriptRunner - INFO -   Época [7/10] - Loss: 0.0161
+2025-11-03 15:24:24,456 - TaskScriptRunner - INFO -   Época [8/10] - Loss: 0.0121
+2025-11-03 15:24:24,618 - TaskScriptRunner - INFO -   Época [9/10] - Loss: 0.0115
+2025-11-03 15:24:24,784 - TaskScriptRunner - INFO -   Época [10/10] - Loss: 0.0107
+2025-11-03 15:24:26,445 - TaskScriptRunner - INFO - 📤 Modelo enviado: 170 steps, accuracy=0.9826
+2025-11-03 15:24:38,592 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=283e12a9-91ef-4f15-9d20-b491995ea9ff] - execute for task (train)
+2025-11-03 15:24:38,593 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=283e12a9-91ef-4f15-9d20-b491995ea9ff] - send data to peer
+2025-11-03 15:24:38,593 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=283e12a9-91ef-4f15-9d20-b491995ea9ff] - sending payload to peer
+2025-11-03 15:24:38,593 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=283e12a9-91ef-4f15-9d20-b491995ea9ff] - Waiting for result from peer
+2025-11-03 15:24:39,173 - TaskScriptRunner - INFO -   Época [1/10] - Loss: 0.0768
+2025-11-03 15:24:39,318 - TaskScriptRunner - INFO -   Época [2/10] - Loss: 0.0410
+2025-11-03 15:24:39,455 - TaskScriptRunner - INFO -   Época [3/10] - Loss: 0.0262
+2025-11-03 15:24:39,629 - TaskScriptRunner - INFO -   Época [4/10] - Loss: 0.0198
+2025-11-03 15:24:39,779 - TaskScriptRunner - INFO -   Época [5/10] - Loss: 0.0136
+2025-11-03 15:24:39,937 - TaskScriptRunner - INFO -   Época [6/10] - Loss: 0.0110
+2025-11-03 15:24:40,140 - TaskScriptRunner - INFO -   Época [7/10] - Loss: 0.0099
+2025-11-03 15:24:40,325 - TaskScriptRunner - INFO -   Época [8/10] - Loss: 0.0106
+2025-11-03 15:24:40,536 - TaskScriptRunner - INFO -   Época [9/10] - Loss: 0.0095
+2025-11-03 15:24:40,737 - TaskScriptRunner - INFO -   Época [10/10] - Loss: 0.0086
+2025-11-03 15:24:42,728 - TaskScriptRunner - INFO - 📤 Modelo enviado: 170 steps, accuracy=0.9849
+2025-11-03 15:24:57,300 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=493d6713-cb3d-46db-8c0c-d264ea01c5b7] - execute for task (train)
+2025-11-03 15:24:57,301 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=493d6713-cb3d-46db-8c0c-d264ea01c5b7] - send data to peer
+2025-11-03 15:24:57,301 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=493d6713-cb3d-46db-8c0c-d264ea01c5b7] - sending payload to peer
+2025-11-03 15:24:57,303 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=493d6713-cb3d-46db-8c0c-d264ea01c5b7] - Waiting for result from peer
+2025-11-03 15:24:58,001 - TaskScriptRunner - INFO -   Época [1/10] - Loss: 0.0693
+2025-11-03 15:24:58,220 - TaskScriptRunner - INFO -   Época [2/10] - Loss: 0.0368
+2025-11-03 15:24:58,415 - TaskScriptRunner - INFO -   Época [3/10] - Loss: 0.0212
+2025-11-03 15:24:58,667 - TaskScriptRunner - INFO -   Época [4/10] - Loss: 0.0139
+2025-11-03 15:24:58,872 - TaskScriptRunner - INFO -   Época [5/10] - Loss: 0.0117
+2025-11-03 15:24:59,161 - TaskScriptRunner - INFO -   Época [6/10] - Loss: 0.0086
+2025-11-03 15:24:59,552 - TaskScriptRunner - INFO -   Época [7/10] - Loss: 0.0071
+2025-11-03 15:24:59,779 - TaskScriptRunner - INFO -   Época [8/10] - Loss: 0.0059
+2025-11-03 15:24:59,977 - TaskScriptRunner - INFO -   Época [9/10] - Loss: 0.0053
+2025-11-03 15:25:00,181 - TaskScriptRunner - INFO -   Época [10/10] - Loss: 0.0049
+2025-11-03 15:25:01,786 - TaskScriptRunner - INFO - 📤 Modelo enviado: 170 steps, accuracy=0.9856
+2025-11-03 15:25:12,999 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=34b031ea-da41-4ac7-8cf3-d5bb40a99ddb] - execute for task (train)
+2025-11-03 15:25:13,000 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=34b031ea-da41-4ac7-8cf3-d5bb40a99ddb] - send data to peer
+2025-11-03 15:25:13,000 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=34b031ea-da41-4ac7-8cf3-d5bb40a99ddb] - sending payload to peer
+2025-11-03 15:25:13,000 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=34b031ea-da41-4ac7-8cf3-d5bb40a99ddb] - Waiting for result from peer
+2025-11-03 15:25:13,500 - TaskScriptRunner - INFO -   Época [1/10] - Loss: 0.0672
+2025-11-03 15:25:13,649 - TaskScriptRunner - INFO -   Época [2/10] - Loss: 0.0359
+2025-11-03 15:25:13,795 - TaskScriptRunner - INFO -   Época [3/10] - Loss: 0.0192
+2025-11-03 15:25:13,928 - TaskScriptRunner - INFO -   Época [4/10] - Loss: 0.0132
+2025-11-03 15:25:14,070 - TaskScriptRunner - INFO -   Época [5/10] - Loss: 0.0080
+2025-11-03 15:25:14,201 - TaskScriptRunner - INFO -   Época [6/10] - Loss: 0.0066
+2025-11-03 15:25:14,326 - TaskScriptRunner - INFO -   Época [7/10] - Loss: 0.0055
+2025-11-03 15:25:14,474 - TaskScriptRunner - INFO -   Época [8/10] - Loss: 0.0046
+2025-11-03 15:25:14,664 - TaskScriptRunner - INFO -   Época [9/10] - Loss: 0.0041
+2025-11-03 15:25:14,858 - TaskScriptRunner - INFO -   Época [10/10] - Loss: 0.0036
+2025-11-03 15:25:16,962 - TaskScriptRunner - INFO - 📤 Modelo enviado: 170 steps, accuracy=0.9863
+2025-11-03 15:25:31,332 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=43234cc7-cb47-4ec5-8524-86ad13f1b36c] - execute for task (train)
+2025-11-03 15:25:31,333 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=43234cc7-cb47-4ec5-8524-86ad13f1b36c] - send data to peer
+2025-11-03 15:25:31,334 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=43234cc7-cb47-4ec5-8524-86ad13f1b36c] - sending payload to peer
+2025-11-03 15:25:31,349 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=43234cc7-cb47-4ec5-8524-86ad13f1b36c] - Waiting for result from peer
+2025-11-03 15:25:31,677 - TaskScriptRunner - INFO -   Época [1/10] - Loss: 0.0793
+2025-11-03 15:25:31,885 - TaskScriptRunner - INFO -   Época [2/10] - Loss: 0.0396
+2025-11-03 15:25:32,038 - TaskScriptRunner - INFO -   Época [3/10] - Loss: 0.0254
+2025-11-03 15:25:32,199 - TaskScriptRunner - INFO -   Época [4/10] - Loss: 0.0227
+2025-11-03 15:25:32,383 - TaskScriptRunner - INFO -   Época [5/10] - Loss: 0.0120
+2025-11-03 15:25:32,586 - TaskScriptRunner - INFO -   Época [6/10] - Loss: 0.0046
+2025-11-03 15:25:32,814 - TaskScriptRunner - INFO -   Época [7/10] - Loss: 0.0036
+2025-11-03 15:25:33,043 - TaskScriptRunner - INFO -   Época [8/10] - Loss: 0.0030
+2025-11-03 15:25:33,283 - TaskScriptRunner - INFO -   Época [9/10] - Loss: 0.0028
+2025-11-03 15:25:33,484 - TaskScriptRunner - INFO -   Época [10/10] - Loss: 0.0027
+2025-11-03 15:25:35,107 - TaskScriptRunner - INFO - 📤 Modelo enviado: 170 steps, accuracy=0.9854
+2025-11-03 15:25:47,557 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=78b7f3ae-373b-4996-a448-b766a139be04] - execute for task (train)
+2025-11-03 15:25:47,557 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=78b7f3ae-373b-4996-a448-b766a139be04] - send data to peer
+2025-11-03 15:25:47,558 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=78b7f3ae-373b-4996-a448-b766a139be04] - sending payload to peer
+2025-11-03 15:25:47,558 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=78b7f3ae-373b-4996-a448-b766a139be04] - Waiting for result from peer
+2025-11-03 15:25:47,774 - TaskScriptRunner - INFO -   Época [1/10] - Loss: 0.0748
+2025-11-03 15:25:47,940 - TaskScriptRunner - INFO -   Época [2/10] - Loss: 0.0401
+2025-11-03 15:25:48,084 - TaskScriptRunner - INFO -   Época [3/10] - Loss: 0.0222
+2025-11-03 15:25:48,242 - TaskScriptRunner - INFO -   Época [4/10] - Loss: 0.0188
+2025-11-03 15:25:48,400 - TaskScriptRunner - INFO -   Época [5/10] - Loss: 0.0100
+2025-11-03 15:25:48,563 - TaskScriptRunner - INFO -   Época [6/10] - Loss: 0.0055
+2025-11-03 15:25:48,744 - TaskScriptRunner - INFO -   Época [7/10] - Loss: 0.0044
+2025-11-03 15:25:48,916 - TaskScriptRunner - INFO -   Época [8/10] - Loss: 0.0031
+2025-11-03 15:25:49,095 - TaskScriptRunner - INFO -   Época [9/10] - Loss: 0.0024
+2025-11-03 15:25:49,348 - TaskScriptRunner - INFO -   Época [10/10] - Loss: 0.0020
+2025-11-03 15:25:51,427 - TaskScriptRunner - INFO - 📤 Modelo enviado: 170 steps, accuracy=0.9855
+2025-11-03 15:26:05,791 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=55e44436-2f7b-4944-b735-c8d9d713274e] - execute for task (train)
+2025-11-03 15:26:05,792 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=55e44436-2f7b-4944-b735-c8d9d713274e] - send data to peer
+2025-11-03 15:26:05,792 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=55e44436-2f7b-4944-b735-c8d9d713274e] - sending payload to peer
+2025-11-03 15:26:05,797 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=55e44436-2f7b-4944-b735-c8d9d713274e] - Waiting for result from peer
+2025-11-03 15:26:06,152 - TaskScriptRunner - INFO -   Época [1/10] - Loss: 0.0584
+2025-11-03 15:26:06,317 - TaskScriptRunner - INFO -   Época [2/10] - Loss: 0.0316
+2025-11-03 15:26:06,544 - TaskScriptRunner - INFO -   Época [3/10] - Loss: 0.0136
+2025-11-03 15:26:06,818 - TaskScriptRunner - INFO -   Época [4/10] - Loss: 0.0095
+2025-11-03 15:26:07,026 - TaskScriptRunner - INFO -   Época [5/10] - Loss: 0.0056
+2025-11-03 15:26:07,258 - TaskScriptRunner - INFO -   Época [6/10] - Loss: 0.0035
+2025-11-03 15:26:07,666 - TaskScriptRunner - INFO -   Época [7/10] - Loss: 0.0023
+2025-11-03 15:26:07,981 - TaskScriptRunner - INFO -   Época [8/10] - Loss: 0.0021
+2025-11-03 15:26:08,234 - TaskScriptRunner - INFO -   Época [9/10] - Loss: 0.0019
+2025-11-03 15:26:08,488 - TaskScriptRunner - INFO -   Época [10/10] - Loss: 0.0020
+2025-11-03 15:26:10,240 - TaskScriptRunner - INFO - 📤 Modelo enviado: 170 steps, accuracy=0.9860
+2025-11-03 15:26:21,513 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=45ba7c82-f67f-4267-b560-dad7db46490d] - execute for task (train)
+2025-11-03 15:26:21,514 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=45ba7c82-f67f-4267-b560-dad7db46490d] - send data to peer
+2025-11-03 15:26:21,514 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=45ba7c82-f67f-4267-b560-dad7db46490d] - sending payload to peer
+2025-11-03 15:26:21,515 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=45ba7c82-f67f-4267-b560-dad7db46490d] - Waiting for result from peer
+2025-11-03 15:26:21,911 - TaskScriptRunner - INFO -   Época [1/10] - Loss: 0.0603
+2025-11-03 15:26:22,032 - TaskScriptRunner - INFO -   Época [2/10] - Loss: 0.0213
+2025-11-03 15:26:22,171 - TaskScriptRunner - INFO -   Época [3/10] - Loss: 0.0065
+2025-11-03 15:26:22,338 - TaskScriptRunner - INFO -   Época [4/10] - Loss: 0.0040
+2025-11-03 15:26:22,472 - TaskScriptRunner - INFO -   Época [5/10] - Loss: 0.0029
+2025-11-03 15:26:22,609 - TaskScriptRunner - INFO -   Época [6/10] - Loss: 0.0026
+2025-11-03 15:26:22,759 - TaskScriptRunner - INFO -   Época [7/10] - Loss: 0.0021
+2025-11-03 15:26:22,913 - TaskScriptRunner - INFO -   Época [8/10] - Loss: 0.0019
+2025-11-03 15:26:23,067 - TaskScriptRunner - INFO -   Época [9/10] - Loss: 0.0017
+2025-11-03 15:26:23,211 - TaskScriptRunner - INFO -   Época [10/10] - Loss: 0.0016
+2025-11-03 15:26:25,253 - TaskScriptRunner - INFO - 📤 Modelo enviado: 170 steps, accuracy=0.9860
+2025-11-03 15:26:39,820 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=0606bfbe-c6a7-4516-be1b-d0037f04d9b1] - execute for task (train)
+2025-11-03 15:26:39,821 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=0606bfbe-c6a7-4516-be1b-d0037f04d9b1] - send data to peer
+2025-11-03 15:26:39,821 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=0606bfbe-c6a7-4516-be1b-d0037f04d9b1] - sending payload to peer
+2025-11-03 15:26:39,844 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=0606bfbe-c6a7-4516-be1b-d0037f04d9b1] - Waiting for result from peer
+2025-11-03 15:26:40,439 - TaskScriptRunner - INFO -   Época [1/10] - Loss: 0.0666
+2025-11-03 15:26:40,640 - TaskScriptRunner - INFO -   Época [2/10] - Loss: 0.0176
+2025-11-03 15:26:40,843 - TaskScriptRunner - INFO -   Época [3/10] - Loss: 0.0100
+2025-11-03 15:26:41,062 - TaskScriptRunner - INFO -   Época [4/10] - Loss: 0.0100
+2025-11-03 15:26:41,389 - TaskScriptRunner - INFO -   Época [5/10] - Loss: 0.0041
+2025-11-03 15:26:41,598 - TaskScriptRunner - INFO -   Época [6/10] - Loss: 0.0026
+2025-11-03 15:26:41,821 - TaskScriptRunner - INFO -   Época [7/10] - Loss: 0.0017
+2025-11-03 15:26:42,019 - TaskScriptRunner - INFO -   Época [8/10] - Loss: 0.0016
+2025-11-03 15:26:42,226 - TaskScriptRunner - INFO -   Época [9/10] - Loss: 0.0014
+2025-11-03 15:26:42,426 - TaskScriptRunner - INFO -   Época [10/10] - Loss: 0.0014
+2025-11-03 15:26:43,993 - TaskScriptRunner - INFO - 📤 Modelo enviado: 170 steps, accuracy=0.9865
+2025-11-03 15:26:56,103 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=e9bfbea8-b329-48bd-9d12-4bcb552d85e1] - execute for task (train)
+2025-11-03 15:26:56,103 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=e9bfbea8-b329-48bd-9d12-4bcb552d85e1] - send data to peer
+2025-11-03 15:26:56,104 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=e9bfbea8-b329-48bd-9d12-4bcb552d85e1] - sending payload to peer
+2025-11-03 15:26:56,104 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=e9bfbea8-b329-48bd-9d12-4bcb552d85e1] - Waiting for result from peer
+2025-11-03 15:26:56,691 - TaskScriptRunner - INFO -   Época [1/10] - Loss: 0.0636
+2025-11-03 15:26:56,837 - TaskScriptRunner - INFO -   Época [2/10] - Loss: 0.0210
+2025-11-03 15:26:57,013 - TaskScriptRunner - INFO -   Época [3/10] - Loss: 0.0121
+2025-11-03 15:26:57,179 - TaskScriptRunner - INFO -   Época [4/10] - Loss: 0.0046
+2025-11-03 15:26:57,381 - TaskScriptRunner - INFO -   Época [5/10] - Loss: 0.0018
+2025-11-03 15:26:57,543 - TaskScriptRunner - INFO -   Época [6/10] - Loss: 0.0017
+2025-11-03 15:26:57,759 - TaskScriptRunner - INFO -   Época [7/10] - Loss: 0.0014
+2025-11-03 15:26:57,969 - TaskScriptRunner - INFO -   Época [8/10] - Loss: 0.0013
+2025-11-03 15:26:58,191 - TaskScriptRunner - INFO -   Época [9/10] - Loss: 0.0012
+2025-11-03 15:26:58,401 - TaskScriptRunner - INFO -   Época [10/10] - Loss: 0.0011
+2025-11-03 15:27:00,603 - TaskScriptRunner - INFO - 📤 Modelo enviado: 170 steps, accuracy=0.9863
+2025-11-03 15:27:12,844 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=373faa97-e456-4643-95c2-942557056461] - execute for task (train)
+2025-11-03 15:27:12,844 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=373faa97-e456-4643-95c2-942557056461] - send data to peer
+2025-11-03 15:27:12,845 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=373faa97-e456-4643-95c2-942557056461] - sending payload to peer
+2025-11-03 15:27:12,845 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=373faa97-e456-4643-95c2-942557056461] - Waiting for result from peer
+2025-11-03 15:27:13,249 - TaskScriptRunner - INFO -   Época [1/10] - Loss: 0.0659
+2025-11-03 15:27:13,363 - TaskScriptRunner - INFO -   Época [2/10] - Loss: 0.0362
+2025-11-03 15:27:13,485 - TaskScriptRunner - INFO -   Época [3/10] - Loss: 0.0187
+2025-11-03 15:27:13,658 - TaskScriptRunner - INFO -   Época [4/10] - Loss: 0.0116
+2025-11-03 15:27:13,862 - TaskScriptRunner - INFO -   Época [5/10] - Loss: 0.0038
+2025-11-03 15:27:14,023 - TaskScriptRunner - INFO -   Época [6/10] - Loss: 0.0017
+2025-11-03 15:27:14,212 - TaskScriptRunner - INFO -   Época [7/10] - Loss: 0.0010
+2025-11-03 15:27:14,355 - TaskScriptRunner - INFO -   Época [8/10] - Loss: 0.0009
+2025-11-03 15:27:14,530 - TaskScriptRunner - INFO -   Época [9/10] - Loss: 0.0008
+2025-11-03 15:27:14,708 - TaskScriptRunner - INFO -   Época [10/10] - Loss: 0.0007
+2025-11-03 15:27:16,898 - TaskScriptRunner - INFO - 📤 Modelo enviado: 170 steps, accuracy=0.9862
+2025-11-03 15:27:31,682 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=9c7f2b1e-f1ad-4344-b585-393a72099325] - execute for task (train)
+2025-11-03 15:27:31,684 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=9c7f2b1e-f1ad-4344-b585-393a72099325] - send data to peer
+2025-11-03 15:27:31,684 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=9c7f2b1e-f1ad-4344-b585-393a72099325] - sending payload to peer
+2025-11-03 15:27:31,689 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=9c7f2b1e-f1ad-4344-b585-393a72099325] - Waiting for result from peer
+2025-11-03 15:27:32,130 - TaskScriptRunner - INFO -   Época [1/10] - Loss: 0.0719
+2025-11-03 15:27:32,365 - TaskScriptRunner - INFO -   Época [2/10] - Loss: 0.0263
+2025-11-03 15:27:32,558 - TaskScriptRunner - INFO -   Época [3/10] - Loss: 0.0091
+2025-11-03 15:27:32,818 - TaskScriptRunner - INFO -   Época [4/10] - Loss: 0.0148
+2025-11-03 15:27:33,116 - TaskScriptRunner - INFO -   Época [5/10] - Loss: 0.0054
+2025-11-03 15:27:33,352 - TaskScriptRunner - INFO -   Época [6/10] - Loss: 0.0020
+2025-11-03 15:27:33,559 - TaskScriptRunner - INFO -   Época [7/10] - Loss: 0.0011
+2025-11-03 15:27:33,808 - TaskScriptRunner - INFO -   Época [8/10] - Loss: 0.0009
+2025-11-03 15:27:34,025 - TaskScriptRunner - INFO -   Época [9/10] - Loss: 0.0008
+2025-11-03 15:27:34,262 - TaskScriptRunner - INFO -   Época [10/10] - Loss: 0.0007
+2025-11-03 15:27:36,071 - TaskScriptRunner - INFO - 📤 Modelo enviado: 170 steps, accuracy=0.9867
+2025-11-03 15:27:47,495 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=f970674b-0ce9-4cc9-be2d-089a62271bcb] - execute for task (train)
+2025-11-03 15:27:47,495 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=f970674b-0ce9-4cc9-be2d-089a62271bcb] - send data to peer
+2025-11-03 15:27:47,496 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=f970674b-0ce9-4cc9-be2d-089a62271bcb] - sending payload to peer
+2025-11-03 15:27:47,497 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=f970674b-0ce9-4cc9-be2d-089a62271bcb] - Waiting for result from peer
+2025-11-03 15:27:47,780 - TaskScriptRunner - INFO -   Época [1/10] - Loss: 0.0740
+2025-11-03 15:27:47,952 - TaskScriptRunner - INFO -   Época [2/10] - Loss: 0.0439
+2025-11-03 15:27:48,131 - TaskScriptRunner - INFO -   Época [3/10] - Loss: 0.0311
+2025-11-03 15:27:48,308 - TaskScriptRunner - INFO -   Época [4/10] - Loss: 0.0100
+2025-11-03 15:27:48,517 - TaskScriptRunner - INFO -   Época [5/10] - Loss: 0.0036
+2025-11-03 15:27:48,746 - TaskScriptRunner - INFO -   Época [6/10] - Loss: 0.0018
+2025-11-03 15:27:48,909 - TaskScriptRunner - INFO -   Época [7/10] - Loss: 0.0009
+2025-11-03 15:27:49,164 - TaskScriptRunner - INFO -   Época [8/10] - Loss: 0.0008
+2025-11-03 15:27:49,389 - TaskScriptRunner - INFO -   Época [9/10] - Loss: 0.0006
+2025-11-03 15:27:49,736 - TaskScriptRunner - INFO -   Época [10/10] - Loss: 0.0006
+2025-11-03 15:27:51,714 - TaskScriptRunner - INFO - 📤 Modelo enviado: 170 steps, accuracy=0.9855
+2025-11-03 15:28:06,202 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=22200359-99a0-449d-a5a4-bdcfb1b0d0e5] - execute for task (train)
+2025-11-03 15:28:06,203 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=22200359-99a0-449d-a5a4-bdcfb1b0d0e5] - send data to peer
+2025-11-03 15:28:06,203 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=22200359-99a0-449d-a5a4-bdcfb1b0d0e5] - sending payload to peer
+2025-11-03 15:28:06,205 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=22200359-99a0-449d-a5a4-bdcfb1b0d0e5] - Waiting for result from peer
+2025-11-03 15:28:06,464 - TaskScriptRunner - INFO -   Época [1/10] - Loss: 0.0711
+2025-11-03 15:28:06,685 - TaskScriptRunner - INFO -   Época [2/10] - Loss: 0.0280
+2025-11-03 15:28:07,020 - TaskScriptRunner - INFO -   Época [3/10] - Loss: 0.0701
+2025-11-03 15:28:07,322 - TaskScriptRunner - INFO -   Época [4/10] - Loss: 0.0364
+2025-11-03 15:28:07,628 - TaskScriptRunner - INFO -   Época [5/10] - Loss: 0.0146
+2025-11-03 15:28:07,986 - TaskScriptRunner - INFO -   Época [6/10] - Loss: 0.0052
+2025-11-03 15:28:08,184 - TaskScriptRunner - INFO -   Época [7/10] - Loss: 0.0012
+2025-11-03 15:28:08,379 - TaskScriptRunner - INFO -   Época [8/10] - Loss: 0.0009
+2025-11-03 15:28:08,554 - TaskScriptRunner - INFO -   Época [9/10] - Loss: 0.0007
+2025-11-03 15:28:08,747 - TaskScriptRunner - INFO -   Época [10/10] - Loss: 0.0006
+2025-11-03 15:28:10,279 - TaskScriptRunner - INFO - 📤 Modelo enviado: 170 steps, accuracy=0.9860
+2025-11-03 15:28:21,888 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=0e43b2ca-2cc8-4281-8b5b-6ef8d9e6b2ea] - execute for task (train)
+2025-11-03 15:28:21,889 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=0e43b2ca-2cc8-4281-8b5b-6ef8d9e6b2ea] - send data to peer
+2025-11-03 15:28:21,889 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=0e43b2ca-2cc8-4281-8b5b-6ef8d9e6b2ea] - sending payload to peer
+2025-11-03 15:28:21,890 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=0e43b2ca-2cc8-4281-8b5b-6ef8d9e6b2ea] - Waiting for result from peer
+2025-11-03 15:28:22,415 - TaskScriptRunner - INFO -   Época [1/10] - Loss: 0.0866
+2025-11-03 15:28:22,537 - TaskScriptRunner - INFO -   Época [2/10] - Loss: 0.0475
+2025-11-03 15:28:22,653 - TaskScriptRunner - INFO -   Época [3/10] - Loss: 0.0185
+2025-11-03 15:28:22,768 - TaskScriptRunner - INFO -   Época [4/10] - Loss: 0.0107
+2025-11-03 15:28:22,891 - TaskScriptRunner - INFO -   Época [5/10] - Loss: 0.0058
+2025-11-03 15:28:23,036 - TaskScriptRunner - INFO -   Época [6/10] - Loss: 0.0012
+2025-11-03 15:28:23,168 - TaskScriptRunner - INFO -   Época [7/10] - Loss: 0.0010
+2025-11-03 15:28:23,332 - TaskScriptRunner - INFO -   Época [8/10] - Loss: 0.0008
+2025-11-03 15:28:23,478 - TaskScriptRunner - INFO -   Época [9/10] - Loss: 0.0006
+2025-11-03 15:28:23,631 - TaskScriptRunner - INFO -   Época [10/10] - Loss: 0.0006
+2025-11-03 15:28:25,610 - TaskScriptRunner - INFO - 📤 Modelo enviado: 170 steps, accuracy=0.9856
+2025-11-03 15:28:40,173 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=7afdcd2d-b5ab-451f-b099-5759afdd0fb2] - execute for task (train)
+2025-11-03 15:28:40,173 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=7afdcd2d-b5ab-451f-b099-5759afdd0fb2] - send data to peer
+2025-11-03 15:28:40,174 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=7afdcd2d-b5ab-451f-b099-5759afdd0fb2] - sending payload to peer
+2025-11-03 15:28:40,176 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=7afdcd2d-b5ab-451f-b099-5759afdd0fb2] - Waiting for result from peer
+2025-11-03 15:28:40,861 - TaskScriptRunner - INFO -   Época [1/10] - Loss: 0.0720
+2025-11-03 15:28:41,121 - TaskScriptRunner - INFO -   Época [2/10] - Loss: 0.0422
+2025-11-03 15:28:41,335 - TaskScriptRunner - INFO -   Época [3/10] - Loss: 0.0240
+2025-11-03 15:28:41,691 - TaskScriptRunner - INFO -   Época [4/10] - Loss: 0.0041
+2025-11-03 15:28:41,873 - TaskScriptRunner - INFO -   Época [5/10] - Loss: 0.0015
+2025-11-03 15:28:42,074 - TaskScriptRunner - INFO -   Época [6/10] - Loss: 0.0011
+2025-11-03 15:28:42,397 - TaskScriptRunner - INFO -   Época [7/10] - Loss: 0.0007
+2025-11-03 15:28:42,642 - TaskScriptRunner - INFO -   Época [8/10] - Loss: 0.0006
+2025-11-03 15:28:42,836 - TaskScriptRunner - INFO -   Época [9/10] - Loss: 0.0006
+2025-11-03 15:28:43,053 - TaskScriptRunner - INFO -   Época [10/10] - Loss: 0.0006
+2025-11-03 15:28:44,574 - TaskScriptRunner - INFO - 📤 Modelo enviado: 170 steps, accuracy=0.9852
+2025-11-03 15:28:55,871 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=71461867-c332-4b8c-a166-9fe8d2186886] - execute for task (train)
+2025-11-03 15:28:55,872 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=71461867-c332-4b8c-a166-9fe8d2186886] - send data to peer
+2025-11-03 15:28:55,872 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=71461867-c332-4b8c-a166-9fe8d2186886] - sending payload to peer
+2025-11-03 15:28:55,873 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=71461867-c332-4b8c-a166-9fe8d2186886] - Waiting for result from peer
+2025-11-03 15:28:56,297 - TaskScriptRunner - INFO -   Época [1/10] - Loss: 0.0844
+2025-11-03 15:28:56,434 - TaskScriptRunner - INFO -   Época [2/10] - Loss: 0.0749
+2025-11-03 15:28:56,577 - TaskScriptRunner - INFO -   Época [3/10] - Loss: 0.0220
+2025-11-03 15:28:56,722 - TaskScriptRunner - INFO -   Época [4/10] - Loss: 0.0064
+2025-11-03 15:28:56,885 - TaskScriptRunner - INFO -   Época [5/10] - Loss: 0.0026
+2025-11-03 15:28:57,027 - TaskScriptRunner - INFO -   Época [6/10] - Loss: 0.0011
+2025-11-03 15:28:57,167 - TaskScriptRunner - INFO -   Época [7/10] - Loss: 0.0008
+2025-11-03 15:28:57,336 - TaskScriptRunner - INFO -   Época [8/10] - Loss: 0.0007
+2025-11-03 15:28:57,513 - TaskScriptRunner - INFO -   Época [9/10] - Loss: 0.0007
+2025-11-03 15:28:57,698 - TaskScriptRunner - INFO -   Época [10/10] - Loss: 0.0006
+2025-11-03 15:28:59,858 - TaskScriptRunner - INFO - 📤 Modelo enviado: 170 steps, accuracy=0.9828
+2025-11-03 15:29:14,283 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=00e85e91-b6ba-406d-a18a-1b84ad0ab90c] - execute for task (train)
+2025-11-03 15:29:14,283 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=00e85e91-b6ba-406d-a18a-1b84ad0ab90c] - send data to peer
+2025-11-03 15:29:14,284 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=00e85e91-b6ba-406d-a18a-1b84ad0ab90c] - sending payload to peer
+2025-11-03 15:29:14,285 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=00e85e91-b6ba-406d-a18a-1b84ad0ab90c] - Waiting for result from peer
+2025-11-03 15:29:14,524 - TaskScriptRunner - INFO -   Época [1/10] - Loss: 0.0624
+2025-11-03 15:29:14,696 - TaskScriptRunner - INFO -   Época [2/10] - Loss: 0.0256
+2025-11-03 15:29:14,903 - TaskScriptRunner - INFO -   Época [3/10] - Loss: 0.0164
+2025-11-03 15:29:15,119 - TaskScriptRunner - INFO -   Época [4/10] - Loss: 0.0030
+2025-11-03 15:29:15,363 - TaskScriptRunner - INFO -   Época [5/10] - Loss: 0.0011
+2025-11-03 15:29:15,588 - TaskScriptRunner - INFO -   Época [6/10] - Loss: 0.0007
+2025-11-03 15:29:15,765 - TaskScriptRunner - INFO -   Época [7/10] - Loss: 0.0006
+2025-11-03 15:29:15,970 - TaskScriptRunner - INFO -   Época [8/10] - Loss: 0.0005
+2025-11-03 15:29:16,204 - TaskScriptRunner - INFO -   Época [9/10] - Loss: 0.0005
+2025-11-03 15:29:16,395 - TaskScriptRunner - INFO -   Época [10/10] - Loss: 0.0005
+2025-11-03 15:29:18,332 - TaskScriptRunner - INFO - 📤 Modelo enviado: 170 steps, accuracy=0.9858
+2025-11-03 15:29:30,009 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=3f921a20-bf7b-483d-88f4-ebc484e9ad07] - execute for task (train)
+2025-11-03 15:29:30,009 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=3f921a20-bf7b-483d-88f4-ebc484e9ad07] - send data to peer
+2025-11-03 15:29:30,010 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=3f921a20-bf7b-483d-88f4-ebc484e9ad07] - sending payload to peer
+2025-11-03 15:29:30,010 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=3f921a20-bf7b-483d-88f4-ebc484e9ad07] - Waiting for result from peer
+2025-11-03 15:29:30,513 - TaskScriptRunner - INFO -   Época [1/10] - Loss: 0.0669
+2025-11-03 15:29:30,664 - TaskScriptRunner - INFO -   Época [2/10] - Loss: 0.0340
+2025-11-03 15:29:30,841 - TaskScriptRunner - INFO -   Época [3/10] - Loss: 0.0176
+2025-11-03 15:29:30,989 - TaskScriptRunner - INFO -   Época [4/10] - Loss: 0.0097
+2025-11-03 15:29:31,131 - TaskScriptRunner - INFO -   Época [5/10] - Loss: 0.0021
+2025-11-03 15:29:31,299 - TaskScriptRunner - INFO -   Época [6/10] - Loss: 0.0006
+2025-11-03 15:29:31,446 - TaskScriptRunner - INFO -   Época [7/10] - Loss: 0.0005
+2025-11-03 15:29:31,578 - TaskScriptRunner - INFO -   Época [8/10] - Loss: 0.0004
+2025-11-03 15:29:31,758 - TaskScriptRunner - INFO -   Época [9/10] - Loss: 0.0004
+2025-11-03 15:29:31,942 - TaskScriptRunner - INFO -   Época [10/10] - Loss: 0.0004
+2025-11-03 15:29:33,864 - TaskScriptRunner - INFO - 📤 Modelo enviado: 170 steps, accuracy=0.9855
+2025-11-03 15:29:48,295 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=e804df7e-eee9-4ba7-b926-99c980d0d6a6] - execute for task (train)
+2025-11-03 15:29:48,296 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=e804df7e-eee9-4ba7-b926-99c980d0d6a6] - send data to peer
+2025-11-03 15:29:48,297 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=e804df7e-eee9-4ba7-b926-99c980d0d6a6] - sending payload to peer
+2025-11-03 15:29:48,298 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=e804df7e-eee9-4ba7-b926-99c980d0d6a6] - Waiting for result from peer
+2025-11-03 15:29:48,590 - TaskScriptRunner - INFO -   Época [1/10] - Loss: 0.0921
+2025-11-03 15:29:48,779 - TaskScriptRunner - INFO -   Época [2/10] - Loss: 0.0603
+2025-11-03 15:29:48,968 - TaskScriptRunner - INFO -   Época [3/10] - Loss: 0.0298
+2025-11-03 15:29:49,185 - TaskScriptRunner - INFO -   Época [4/10] - Loss: 0.0047
+2025-11-03 15:29:49,470 - TaskScriptRunner - INFO -   Época [5/10] - Loss: 0.0013
+2025-11-03 15:29:49,690 - TaskScriptRunner - INFO -   Época [6/10] - Loss: 0.0008
+2025-11-03 15:29:49,936 - TaskScriptRunner - INFO -   Época [7/10] - Loss: 0.0006
+2025-11-03 15:29:50,203 - TaskScriptRunner - INFO -   Época [8/10] - Loss: 0.0005
+2025-11-03 15:29:50,502 - TaskScriptRunner - INFO -   Época [9/10] - Loss: 0.0005
+2025-11-03 15:29:50,692 - TaskScriptRunner - INFO -   Época [10/10] - Loss: 0.0005
+2025-11-03 15:29:52,170 - TaskScriptRunner - INFO - 📤 Modelo enviado: 170 steps, accuracy=0.9850
+2025-11-03 15:30:04,497 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=36989a3b-4ff8-465b-bb39-7df5b9e3cf07] - execute for task (train)
+2025-11-03 15:30:04,497 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=36989a3b-4ff8-465b-bb39-7df5b9e3cf07] - send data to peer
+2025-11-03 15:30:04,498 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=36989a3b-4ff8-465b-bb39-7df5b9e3cf07] - sending payload to peer
+2025-11-03 15:30:04,498 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=36989a3b-4ff8-465b-bb39-7df5b9e3cf07] - Waiting for result from peer
+2025-11-03 15:30:04,883 - TaskScriptRunner - INFO -   Época [1/10] - Loss: 0.0712
+2025-11-03 15:30:05,029 - TaskScriptRunner - INFO -   Época [2/10] - Loss: 0.0195
+2025-11-03 15:30:05,171 - TaskScriptRunner - INFO -   Época [3/10] - Loss: 0.0124
+2025-11-03 15:30:05,318 - TaskScriptRunner - INFO -   Época [4/10] - Loss: 0.0036
+2025-11-03 15:30:05,498 - TaskScriptRunner - INFO -   Época [5/10] - Loss: 0.0010
+2025-11-03 15:30:05,669 - TaskScriptRunner - INFO -   Época [6/10] - Loss: 0.0006
+2025-11-03 15:30:05,824 - TaskScriptRunner - INFO -   Época [7/10] - Loss: 0.0005
+2025-11-03 15:30:06,004 - TaskScriptRunner - INFO -   Época [8/10] - Loss: 0.0004
+2025-11-03 15:30:06,222 - TaskScriptRunner - INFO -   Época [9/10] - Loss: 0.0004
+2025-11-03 15:30:06,386 - TaskScriptRunner - INFO -   Época [10/10] - Loss: 0.0004
+2025-11-03 15:30:08,446 - TaskScriptRunner - INFO - 📤 Modelo enviado: 170 steps, accuracy=0.9861
+2025-11-03 15:30:22,772 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=38f4c335-48e5-4f2d-afbd-105c7d8afabe] - execute for task (train)
+2025-11-03 15:30:22,773 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=38f4c335-48e5-4f2d-afbd-105c7d8afabe] - send data to peer
+2025-11-03 15:30:22,774 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=38f4c335-48e5-4f2d-afbd-105c7d8afabe] - sending payload to peer
+2025-11-03 15:30:22,775 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=38f4c335-48e5-4f2d-afbd-105c7d8afabe] - Waiting for result from peer
+2025-11-03 15:30:23,174 - TaskScriptRunner - INFO -   Época [1/10] - Loss: 0.0609
+2025-11-03 15:30:23,381 - TaskScriptRunner - INFO -   Época [2/10] - Loss: 0.0233
+2025-11-03 15:30:23,591 - TaskScriptRunner - INFO -   Época [3/10] - Loss: 0.0074
+2025-11-03 15:30:23,871 - TaskScriptRunner - INFO -   Época [4/10] - Loss: 0.0018
+2025-11-03 15:30:24,044 - TaskScriptRunner - INFO -   Época [5/10] - Loss: 0.0008
+2025-11-03 15:30:24,267 - TaskScriptRunner - INFO -   Época [6/10] - Loss: 0.0006
+2025-11-03 15:30:24,521 - TaskScriptRunner - INFO -   Época [7/10] - Loss: 0.0004
+2025-11-03 15:30:24,713 - TaskScriptRunner - INFO -   Época [8/10] - Loss: 0.0004
+2025-11-03 15:30:24,914 - TaskScriptRunner - INFO -   Época [9/10] - Loss: 0.0004
+2025-11-03 15:30:25,110 - TaskScriptRunner - INFO -   Época [10/10] - Loss: 0.0004
+2025-11-03 15:30:26,687 - TaskScriptRunner - INFO - 📤 Modelo enviado: 170 steps, accuracy=0.9863
+2025-11-03 15:30:38,543 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=3a0353d1-3a83-475b-9a35-61f92231001b] - execute for task (train)
+2025-11-03 15:30:38,544 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=3a0353d1-3a83-475b-9a35-61f92231001b] - send data to peer
+2025-11-03 15:30:38,544 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=3a0353d1-3a83-475b-9a35-61f92231001b] - sending payload to peer
+2025-11-03 15:30:38,544 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=3a0353d1-3a83-475b-9a35-61f92231001b] - Waiting for result from peer
+2025-11-03 15:30:38,792 - TaskScriptRunner - INFO -   Época [1/10] - Loss: 0.0620
+2025-11-03 15:30:38,937 - TaskScriptRunner - INFO -   Época [2/10] - Loss: 0.0388
+2025-11-03 15:30:39,070 - TaskScriptRunner - INFO -   Época [3/10] - Loss: 0.0227
+2025-11-03 15:30:39,204 - TaskScriptRunner - INFO -   Época [4/10] - Loss: 0.0053
+2025-11-03 15:30:39,328 - TaskScriptRunner - INFO -   Época [5/10] - Loss: 0.0038
+2025-11-03 15:30:39,451 - TaskScriptRunner - INFO -   Época [6/10] - Loss: 0.0012
+2025-11-03 15:30:39,575 - TaskScriptRunner - INFO -   Época [7/10] - Loss: 0.0007
+2025-11-03 15:30:39,704 - TaskScriptRunner - INFO -   Época [8/10] - Loss: 0.0004
+2025-11-03 15:30:39,827 - TaskScriptRunner - INFO -   Época [9/10] - Loss: 0.0003
+2025-11-03 15:30:39,948 - TaskScriptRunner - INFO -   Época [10/10] - Loss: 0.0003
+2025-11-03 15:30:41,763 - TaskScriptRunner - INFO - 📤 Modelo enviado: 170 steps, accuracy=0.9861
+2025-11-03 15:30:56,344 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=5daa0eb5-48b8-4c78-b5f4-a862470d2667] - execute for task (train)
+2025-11-03 15:30:56,344 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=5daa0eb5-48b8-4c78-b5f4-a862470d2667] - send data to peer
+2025-11-03 15:30:56,345 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=5daa0eb5-48b8-4c78-b5f4-a862470d2667] - sending payload to peer
+2025-11-03 15:30:56,346 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=5daa0eb5-48b8-4c78-b5f4-a862470d2667] - Waiting for result from peer
+2025-11-03 15:30:56,962 - TaskScriptRunner - INFO -   Época [1/10] - Loss: 0.0785
+2025-11-03 15:30:57,114 - TaskScriptRunner - INFO -   Época [2/10] - Loss: 0.0248
+2025-11-03 15:30:57,313 - TaskScriptRunner - INFO -   Época [3/10] - Loss: 0.0143
+2025-11-03 15:30:57,504 - TaskScriptRunner - INFO -   Época [4/10] - Loss: 0.0037
+2025-11-03 15:30:57,735 - TaskScriptRunner - INFO -   Época [5/10] - Loss: 0.0011
+2025-11-03 15:30:58,011 - TaskScriptRunner - INFO -   Época [6/10] - Loss: 0.0004
+2025-11-03 15:30:58,187 - TaskScriptRunner - INFO -   Época [7/10] - Loss: 0.0003
+2025-11-03 15:30:58,412 - TaskScriptRunner - INFO -   Época [8/10] - Loss: 0.0004
+2025-11-03 15:30:58,636 - TaskScriptRunner - INFO -   Época [9/10] - Loss: 0.0003
+2025-11-03 15:30:58,863 - TaskScriptRunner - INFO -   Época [10/10] - Loss: 0.0003
+2025-11-03 15:31:00,898 - TaskScriptRunner - INFO - 📤 Modelo enviado: 170 steps, accuracy=0.9870
+2025-11-03 15:31:13,050 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=bdd132b9-004d-4ee1-a89e-242f7a2cd94f] - execute for task (train)
+2025-11-03 15:31:13,051 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=bdd132b9-004d-4ee1-a89e-242f7a2cd94f] - send data to peer
+2025-11-03 15:31:13,051 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=bdd132b9-004d-4ee1-a89e-242f7a2cd94f] - sending payload to peer
+2025-11-03 15:31:13,052 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=bdd132b9-004d-4ee1-a89e-242f7a2cd94f] - Waiting for result from peer
+2025-11-03 15:31:13,664 - TaskScriptRunner - INFO -   Época [1/10] - Loss: 0.0610
+2025-11-03 15:31:13,799 - TaskScriptRunner - INFO -   Época [2/10] - Loss: 0.0355
+2025-11-03 15:31:13,947 - TaskScriptRunner - INFO -   Época [3/10] - Loss: 0.0205
+2025-11-03 15:31:14,092 - TaskScriptRunner - INFO -   Época [4/10] - Loss: 0.0098
+2025-11-03 15:31:14,253 - TaskScriptRunner - INFO -   Época [5/10] - Loss: 0.0047
+2025-11-03 15:31:14,440 - TaskScriptRunner - INFO -   Época [6/10] - Loss: 0.0006
+2025-11-03 15:31:14,590 - TaskScriptRunner - INFO -   Época [7/10] - Loss: 0.0004
+2025-11-03 15:31:14,756 - TaskScriptRunner - INFO -   Época [8/10] - Loss: 0.0003
+2025-11-03 15:31:14,958 - TaskScriptRunner - INFO -   Época [9/10] - Loss: 0.0003
+2025-11-03 15:31:15,177 - TaskScriptRunner - INFO -   Época [10/10] - Loss: 0.0003
+2025-11-03 15:31:17,150 - TaskScriptRunner - INFO - 📤 Modelo enviado: 170 steps, accuracy=0.9855
+2025-11-03 15:31:31,774 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=9344e8e8-430d-457d-884a-c781bd476e1b] - execute for task (train)
+2025-11-03 15:31:31,775 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=9344e8e8-430d-457d-884a-c781bd476e1b] - send data to peer
+2025-11-03 15:31:31,775 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=9344e8e8-430d-457d-884a-c781bd476e1b] - sending payload to peer
+2025-11-03 15:31:31,777 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=9344e8e8-430d-457d-884a-c781bd476e1b] - Waiting for result from peer
+2025-11-03 15:31:32,437 - TaskScriptRunner - INFO -   Época [1/10] - Loss: 0.0806
+2025-11-03 15:31:32,697 - TaskScriptRunner - INFO -   Época [2/10] - Loss: 0.0441
+2025-11-03 15:31:32,897 - TaskScriptRunner - INFO -   Época [3/10] - Loss: 0.0173
+2025-11-03 15:31:33,073 - TaskScriptRunner - INFO -   Época [4/10] - Loss: 0.0084
+2025-11-03 15:31:33,306 - TaskScriptRunner - INFO -   Época [5/10] - Loss: 0.0018
+2025-11-03 15:31:33,572 - TaskScriptRunner - INFO -   Época [6/10] - Loss: 0.0009
+2025-11-03 15:31:33,777 - TaskScriptRunner - INFO -   Época [7/10] - Loss: 0.0005
+2025-11-03 15:31:34,009 - TaskScriptRunner - INFO -   Época [8/10] - Loss: 0.0003
+2025-11-03 15:31:34,199 - TaskScriptRunner - INFO -   Época [9/10] - Loss: 0.0003
+2025-11-03 15:31:34,413 - TaskScriptRunner - INFO -   Época [10/10] - Loss: 0.0003
+2025-11-03 15:31:35,946 - TaskScriptRunner - INFO - 📤 Modelo enviado: 170 steps, accuracy=0.9848
+2025-11-03 15:31:47,463 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=ea16f6e8-dc7e-4c22-9589-5650614fb03b] - execute for task (train)
+2025-11-03 15:31:47,464 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=ea16f6e8-dc7e-4c22-9589-5650614fb03b] - send data to peer
+2025-11-03 15:31:47,464 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=ea16f6e8-dc7e-4c22-9589-5650614fb03b] - sending payload to peer
+2025-11-03 15:31:47,465 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=ea16f6e8-dc7e-4c22-9589-5650614fb03b] - Waiting for result from peer
+2025-11-03 15:31:48,098 - TaskScriptRunner - INFO -   Época [1/10] - Loss: 0.0936
+2025-11-03 15:31:48,228 - TaskScriptRunner - INFO -   Época [2/10] - Loss: 0.0692
+2025-11-03 15:31:48,366 - TaskScriptRunner - INFO -   Época [3/10] - Loss: 0.0439
+2025-11-03 15:31:48,495 - TaskScriptRunner - INFO -   Época [4/10] - Loss: 0.0041
+2025-11-03 15:31:48,638 - TaskScriptRunner - INFO -   Época [5/10] - Loss: 0.0019
+2025-11-03 15:31:48,787 - TaskScriptRunner - INFO -   Época [6/10] - Loss: 0.0005
+2025-11-03 15:31:48,938 - TaskScriptRunner - INFO -   Época [7/10] - Loss: 0.0005
+2025-11-03 15:31:49,091 - TaskScriptRunner - INFO -   Época [8/10] - Loss: 0.0004
+2025-11-03 15:31:49,366 - TaskScriptRunner - INFO -   Época [9/10] - Loss: 0.0003
+2025-11-03 15:31:49,572 - TaskScriptRunner - INFO -   Época [10/10] - Loss: 0.0003
+2025-11-03 15:31:51,647 - TaskScriptRunner - INFO - 📤 Modelo enviado: 170 steps, accuracy=0.9832
+2025-11-03 15:32:06,200 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=b882e004-1c50-416d-b126-ced4d3033b2d] - execute for task (train)
+2025-11-03 15:32:06,200 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=b882e004-1c50-416d-b126-ced4d3033b2d] - send data to peer
+2025-11-03 15:32:06,201 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=b882e004-1c50-416d-b126-ced4d3033b2d] - sending payload to peer
+2025-11-03 15:32:06,202 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=b882e004-1c50-416d-b126-ced4d3033b2d] - Waiting for result from peer
+2025-11-03 15:32:06,923 - TaskScriptRunner - INFO -   Época [1/10] - Loss: 0.0752
+2025-11-03 15:32:07,149 - TaskScriptRunner - INFO -   Época [2/10] - Loss: 0.0426
+2025-11-03 15:32:07,399 - TaskScriptRunner - INFO -   Época [3/10] - Loss: 0.0222
+2025-11-03 15:32:07,682 - TaskScriptRunner - INFO -   Época [4/10] - Loss: 0.0111
+2025-11-03 15:32:07,911 - TaskScriptRunner - INFO -   Época [5/10] - Loss: 0.0019
+2025-11-03 15:32:08,186 - TaskScriptRunner - INFO -   Época [6/10] - Loss: 0.0006
+2025-11-03 15:32:08,420 - TaskScriptRunner - INFO -   Época [7/10] - Loss: 0.0003
+2025-11-03 15:32:08,694 - TaskScriptRunner - INFO -   Época [8/10] - Loss: 0.0003
+2025-11-03 15:32:08,868 - TaskScriptRunner - INFO -   Época [9/10] - Loss: 0.0003
+2025-11-03 15:32:09,060 - TaskScriptRunner - INFO -   Época [10/10] - Loss: 0.0002
+2025-11-03 15:32:10,585 - TaskScriptRunner - INFO - 📤 Modelo enviado: 170 steps, accuracy=0.9860
+2025-11-03 15:32:21,889 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=958d1102-6a06-4ff1-bd43-0c39cb417d94] - execute for task (train)
+2025-11-03 15:32:21,889 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=958d1102-6a06-4ff1-bd43-0c39cb417d94] - send data to peer
+2025-11-03 15:32:21,890 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=958d1102-6a06-4ff1-bd43-0c39cb417d94] - sending payload to peer
+2025-11-03 15:32:21,890 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=958d1102-6a06-4ff1-bd43-0c39cb417d94] - Waiting for result from peer
+2025-11-03 15:32:22,268 - TaskScriptRunner - INFO -   Época [1/10] - Loss: 0.0646
+2025-11-03 15:32:22,402 - TaskScriptRunner - INFO -   Época [2/10] - Loss: 0.0308
+2025-11-03 15:32:22,553 - TaskScriptRunner - INFO -   Época [3/10] - Loss: 0.0059
+2025-11-03 15:32:22,696 - TaskScriptRunner - INFO -   Época [4/10] - Loss: 0.0013
+2025-11-03 15:32:22,878 - TaskScriptRunner - INFO -   Época [5/10] - Loss: 0.0008
+2025-11-03 15:32:23,039 - TaskScriptRunner - INFO -   Época [6/10] - Loss: 0.0004
+2025-11-03 15:32:23,186 - TaskScriptRunner - INFO -   Época [7/10] - Loss: 0.0003
+2025-11-03 15:32:23,424 - TaskScriptRunner - INFO -   Época [8/10] - Loss: 0.0003
+2025-11-03 15:32:23,648 - TaskScriptRunner - INFO -   Época [9/10] - Loss: 0.0003
+2025-11-03 15:32:23,923 - TaskScriptRunner - INFO -   Época [10/10] - Loss: 0.0002
+2025-11-03 15:32:25,987 - TaskScriptRunner - INFO - 📤 Modelo enviado: 170 steps, accuracy=0.9869
+2025-11-03 15:32:38,596 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=36f1f7a1-139f-45a3-a1f5-199cdd93d253] - execute for task (train)
+2025-11-03 15:32:38,596 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=36f1f7a1-139f-45a3-a1f5-199cdd93d253] - send data to peer
+2025-11-03 15:32:38,596 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=36f1f7a1-139f-45a3-a1f5-199cdd93d253] - sending payload to peer
+2025-11-03 15:32:38,597 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=36f1f7a1-139f-45a3-a1f5-199cdd93d253] - Waiting for result from peer
+2025-11-03 15:32:39,156 - TaskScriptRunner - INFO -   Época [1/10] - Loss: 0.0801
+2025-11-03 15:32:39,351 - TaskScriptRunner - INFO -   Época [2/10] - Loss: 0.0156
+2025-11-03 15:32:39,575 - TaskScriptRunner - INFO -   Época [3/10] - Loss: 0.0077
+2025-11-03 15:32:39,715 - TaskScriptRunner - INFO -   Época [4/10] - Loss: 0.0064
+2025-11-03 15:32:39,856 - TaskScriptRunner - INFO -   Época [5/10] - Loss: 0.0054
+2025-11-03 15:32:40,054 - TaskScriptRunner - INFO -   Época [6/10] - Loss: 0.0009
+2025-11-03 15:32:40,266 - TaskScriptRunner - INFO -   Época [7/10] - Loss: 0.0004
+2025-11-03 15:32:40,542 - TaskScriptRunner - INFO -   Época [8/10] - Loss: 0.0003
+2025-11-03 15:32:40,796 - TaskScriptRunner - INFO -   Época [9/10] - Loss: 0.0003
+2025-11-03 15:32:41,016 - TaskScriptRunner - INFO -   Época [10/10] - Loss: 0.0002
+2025-11-03 15:32:43,074 - TaskScriptRunner - INFO - 📤 Modelo enviado: 170 steps, accuracy=0.9858
+2025-11-03 15:32:57,360 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=7afba492-b4e6-48f3-a1c3-f9be64540031] - execute for task (train)
+2025-11-03 15:32:57,361 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=7afba492-b4e6-48f3-a1c3-f9be64540031] - send data to peer
+2025-11-03 15:32:57,361 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=7afba492-b4e6-48f3-a1c3-f9be64540031] - sending payload to peer
+2025-11-03 15:32:57,372 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=7afba492-b4e6-48f3-a1c3-f9be64540031] - Waiting for result from peer
+2025-11-03 15:32:57,807 - TaskScriptRunner - INFO -   Época [1/10] - Loss: 0.0723
+2025-11-03 15:32:58,013 - TaskScriptRunner - INFO -   Época [2/10] - Loss: 0.0176
+2025-11-03 15:32:58,289 - TaskScriptRunner - INFO -   Época [3/10] - Loss: 0.0063
+2025-11-03 15:32:58,513 - TaskScriptRunner - INFO -   Época [4/10] - Loss: 0.0037
+2025-11-03 15:32:58,805 - TaskScriptRunner - INFO -   Época [5/10] - Loss: 0.0012
+2025-11-03 15:32:59,047 - TaskScriptRunner - INFO -   Época [6/10] - Loss: 0.0003
+2025-11-03 15:32:59,346 - TaskScriptRunner - INFO -   Época [7/10] - Loss: 0.0003
+2025-11-03 15:32:59,562 - TaskScriptRunner - INFO -   Época [8/10] - Loss: 0.0003
+2025-11-03 15:32:59,814 - TaskScriptRunner - INFO -   Época [9/10] - Loss: 0.0002
+2025-11-03 15:33:00,051 - TaskScriptRunner - INFO -   Época [10/10] - Loss: 0.0002
+2025-11-03 15:33:02,083 - TaskScriptRunner - INFO - 📤 Modelo enviado: 170 steps, accuracy=0.9860
+2025-11-03 15:33:14,725 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=7c5570bb-2ade-4aaf-b7ac-a6a288276734] - execute for task (train)
+2025-11-03 15:33:14,735 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=7c5570bb-2ade-4aaf-b7ac-a6a288276734] - send data to peer
+2025-11-03 15:33:14,735 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=7c5570bb-2ade-4aaf-b7ac-a6a288276734] - sending payload to peer
+2025-11-03 15:33:14,736 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=7c5570bb-2ade-4aaf-b7ac-a6a288276734] - Waiting for result from peer
+2025-11-03 15:33:15,231 - TaskScriptRunner - INFO -   Época [1/10] - Loss: 0.0842
+2025-11-03 15:33:15,334 - TaskScriptRunner - INFO -   Época [2/10] - Loss: 0.0753
+2025-11-03 15:33:15,493 - TaskScriptRunner - INFO -   Época [3/10] - Loss: 0.0453
+2025-11-03 15:33:15,641 - TaskScriptRunner - INFO -   Época [4/10] - Loss: 0.0076
+2025-11-03 15:33:15,798 - TaskScriptRunner - INFO -   Época [5/10] - Loss: 0.0021
+2025-11-03 15:33:15,973 - TaskScriptRunner - INFO -   Época [6/10] - Loss: 0.0006
+2025-11-03 15:33:16,148 - TaskScriptRunner - INFO -   Época [7/10] - Loss: 0.0003
+2025-11-03 15:33:16,332 - TaskScriptRunner - INFO -   Época [8/10] - Loss: 0.0003
+2025-11-03 15:33:16,484 - TaskScriptRunner - INFO -   Época [9/10] - Loss: 0.0003
+2025-11-03 15:33:16,741 - TaskScriptRunner - INFO -   Época [10/10] - Loss: 0.0002
+2025-11-03 15:33:19,383 - TaskScriptRunner - INFO - 📤 Modelo enviado: 170 steps, accuracy=0.9838
+2025-11-03 15:33:31,967 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=6b36a070-df0e-4bdd-8833-520cfa1cfa85] - execute for task (train)
+2025-11-03 15:33:31,967 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=6b36a070-df0e-4bdd-8833-520cfa1cfa85] - send data to peer
+2025-11-03 15:33:31,967 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=6b36a070-df0e-4bdd-8833-520cfa1cfa85] - sending payload to peer
+2025-11-03 15:33:31,968 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=6b36a070-df0e-4bdd-8833-520cfa1cfa85] - Waiting for result from peer
+2025-11-03 15:33:32,549 - TaskScriptRunner - INFO -   Época [1/10] - Loss: 0.0545
+2025-11-03 15:33:32,710 - TaskScriptRunner - INFO -   Época [2/10] - Loss: 0.0181
+2025-11-03 15:33:32,857 - TaskScriptRunner - INFO -   Época [3/10] - Loss: 0.0105
+2025-11-03 15:33:33,008 - TaskScriptRunner - INFO -   Época [4/10] - Loss: 0.0018
+2025-11-03 15:33:33,163 - TaskScriptRunner - INFO -   Época [5/10] - Loss: 0.0007
+2025-11-03 15:33:33,326 - TaskScriptRunner - INFO -   Época [6/10] - Loss: 0.0003
+2025-11-03 15:33:33,536 - TaskScriptRunner - INFO -   Época [7/10] - Loss: 0.0003
+2025-11-03 15:33:33,754 - TaskScriptRunner - INFO -   Época [8/10] - Loss: 0.0002
+2025-11-03 15:33:33,972 - TaskScriptRunner - INFO -   Época [9/10] - Loss: 0.0002
+2025-11-03 15:33:34,261 - TaskScriptRunner - INFO -   Época [10/10] - Loss: 0.0002
+2025-11-03 15:33:36,475 - TaskScriptRunner - INFO - 📤 Modelo enviado: 170 steps, accuracy=0.9865
+2025-11-03 15:33:50,779 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=7f09cb7e-8442-436d-8c6f-37d620b2344e] - execute for task (train)
+2025-11-03 15:33:50,779 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=7f09cb7e-8442-436d-8c6f-37d620b2344e] - send data to peer
+2025-11-03 15:33:50,780 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=7f09cb7e-8442-436d-8c6f-37d620b2344e] - sending payload to peer
+2025-11-03 15:33:50,782 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=7f09cb7e-8442-436d-8c6f-37d620b2344e] - Waiting for result from peer
+2025-11-03 15:33:51,270 - TaskScriptRunner - INFO -   Época [1/10] - Loss: 0.0497
+2025-11-03 15:33:51,523 - TaskScriptRunner - INFO -   Época [2/10] - Loss: 0.0439
+2025-11-03 15:33:51,766 - TaskScriptRunner - INFO -   Época [3/10] - Loss: 0.0078
+2025-11-03 15:33:52,052 - TaskScriptRunner - INFO -   Época [4/10] - Loss: 0.0020
+2025-11-03 15:33:52,252 - TaskScriptRunner - INFO -   Época [5/10] - Loss: 0.0005
+2025-11-03 15:33:52,591 - TaskScriptRunner - INFO -   Época [6/10] - Loss: 0.0004
+2025-11-03 15:33:52,803 - TaskScriptRunner - INFO -   Época [7/10] - Loss: 0.0003
+2025-11-03 15:33:52,998 - TaskScriptRunner - INFO -   Época [8/10] - Loss: 0.0003
+2025-11-03 15:33:53,217 - TaskScriptRunner - INFO -   Época [9/10] - Loss: 0.0003
+2025-11-03 15:33:53,397 - TaskScriptRunner - INFO -   Época [10/10] - Loss: 0.0002
+2025-11-03 15:33:55,002 - TaskScriptRunner - INFO - 📤 Modelo enviado: 170 steps, accuracy=0.9852
+2025-11-03 15:34:06,570 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=c8f473a3-edfd-4807-802a-04d104c11cf6] - execute for task (train)
+2025-11-03 15:34:06,570 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=c8f473a3-edfd-4807-802a-04d104c11cf6] - send data to peer
+2025-11-03 15:34:06,571 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=c8f473a3-edfd-4807-802a-04d104c11cf6] - sending payload to peer
+2025-11-03 15:34:06,572 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=c8f473a3-edfd-4807-802a-04d104c11cf6] - Waiting for result from peer
+2025-11-03 15:34:07,237 - TaskScriptRunner - INFO -   Época [1/10] - Loss: 0.0625
+2025-11-03 15:34:07,412 - TaskScriptRunner - INFO -   Época [2/10] - Loss: 0.0221
+2025-11-03 15:34:07,617 - TaskScriptRunner - INFO -   Época [3/10] - Loss: 0.0064
+2025-11-03 15:34:07,851 - TaskScriptRunner - INFO -   Época [4/10] - Loss: 0.0019
+2025-11-03 15:34:08,052 - TaskScriptRunner - INFO -   Época [5/10] - Loss: 0.0006
+2025-11-03 15:34:08,279 - TaskScriptRunner - INFO -   Época [6/10] - Loss: 0.0004
+2025-11-03 15:34:08,539 - TaskScriptRunner - INFO -   Época [7/10] - Loss: 0.0003
+2025-11-03 15:34:08,834 - TaskScriptRunner - INFO -   Época [8/10] - Loss: 0.0002
+2025-11-03 15:34:09,036 - TaskScriptRunner - INFO -   Época [9/10] - Loss: 0.0002
+2025-11-03 15:34:09,258 - TaskScriptRunner - INFO -   Época [10/10] - Loss: 0.0002
+2025-11-03 15:34:11,095 - TaskScriptRunner - INFO - 📤 Modelo enviado: 170 steps, accuracy=0.9858
+2025-11-03 15:34:23,351 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=caf158d9-2140-4bf4-8c2a-d3703e1a364f] - execute for task (train)
+2025-11-03 15:34:23,351 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=caf158d9-2140-4bf4-8c2a-d3703e1a364f] - send data to peer
+2025-11-03 15:34:23,352 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=caf158d9-2140-4bf4-8c2a-d3703e1a364f] - sending payload to peer
+2025-11-03 15:34:23,352 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=caf158d9-2140-4bf4-8c2a-d3703e1a364f] - Waiting for result from peer
+2025-11-03 15:34:23,822 - TaskScriptRunner - INFO -   Época [1/10] - Loss: 0.0480
+2025-11-03 15:34:24,055 - TaskScriptRunner - INFO -   Época [2/10] - Loss: 0.0217
+2025-11-03 15:34:24,234 - TaskScriptRunner - INFO -   Época [3/10] - Loss: 0.0191
+2025-11-03 15:34:24,421 - TaskScriptRunner - INFO -   Época [4/10] - Loss: 0.0014
+2025-11-03 15:34:24,613 - TaskScriptRunner - INFO -   Época [5/10] - Loss: 0.0004
+2025-11-03 15:34:24,825 - TaskScriptRunner - INFO -   Época [6/10] - Loss: 0.0003
+2025-11-03 15:34:25,021 - TaskScriptRunner - INFO -   Época [7/10] - Loss: 0.0003
+2025-11-03 15:34:25,319 - TaskScriptRunner - INFO -   Época [8/10] - Loss: 0.0002
+2025-11-03 15:34:25,561 - TaskScriptRunner - INFO -   Época [9/10] - Loss: 0.0002
+2025-11-03 15:34:25,822 - TaskScriptRunner - INFO -   Época [10/10] - Loss: 0.0002
+2025-11-03 15:34:28,022 - TaskScriptRunner - INFO - 📤 Modelo enviado: 170 steps, accuracy=0.9867
+2025-11-03 15:34:40,133 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=4c0659f7-acea-4457-89c6-19dfc3b22d8b] - execute for task (train)
+2025-11-03 15:34:40,133 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=4c0659f7-acea-4457-89c6-19dfc3b22d8b] - send data to peer
+2025-11-03 15:34:40,133 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=4c0659f7-acea-4457-89c6-19dfc3b22d8b] - sending payload to peer
+2025-11-03 15:34:40,134 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=4c0659f7-acea-4457-89c6-19dfc3b22d8b] - Waiting for result from peer
+2025-11-03 15:34:40,775 - TaskScriptRunner - INFO -   Época [1/10] - Loss: 0.0788
+2025-11-03 15:34:40,958 - TaskScriptRunner - INFO -   Época [2/10] - Loss: 0.0470
+2025-11-03 15:34:41,138 - TaskScriptRunner - INFO -   Época [3/10] - Loss: 0.0185
+2025-11-03 15:34:41,317 - TaskScriptRunner - INFO -   Época [4/10] - Loss: 0.0124
+2025-11-03 15:34:41,543 - TaskScriptRunner - INFO -   Época [5/10] - Loss: 0.0036
+2025-11-03 15:34:41,723 - TaskScriptRunner - INFO -   Época [6/10] - Loss: 0.0004
+2025-11-03 15:34:41,896 - TaskScriptRunner - INFO -   Época [7/10] - Loss: 0.0004
+2025-11-03 15:34:42,145 - TaskScriptRunner - INFO -   Época [8/10] - Loss: 0.0003
+2025-11-03 15:34:42,354 - TaskScriptRunner - INFO -   Época [9/10] - Loss: 0.0002
+2025-11-03 15:34:42,606 - TaskScriptRunner - INFO -   Época [10/10] - Loss: 0.0002
+2025-11-03 15:34:44,802 - TaskScriptRunner - INFO - 📤 Modelo enviado: 170 steps, accuracy=0.9853
+2025-11-03 15:34:57,414 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=f4b868ea-379e-464e-ae2e-ae10b81b856f] - execute for task (train)
+2025-11-03 15:34:57,415 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=f4b868ea-379e-464e-ae2e-ae10b81b856f] - send data to peer
+2025-11-03 15:34:57,415 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=f4b868ea-379e-464e-ae2e-ae10b81b856f] - sending payload to peer
+2025-11-03 15:34:57,416 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=f4b868ea-379e-464e-ae2e-ae10b81b856f] - Waiting for result from peer
+2025-11-03 15:34:58,014 - TaskScriptRunner - INFO -   Época [1/10] - Loss: 0.0660
+2025-11-03 15:34:58,196 - TaskScriptRunner - INFO -   Época [2/10] - Loss: 0.0581
+2025-11-03 15:34:58,339 - TaskScriptRunner - INFO -   Época [3/10] - Loss: 0.0211
+2025-11-03 15:34:58,498 - TaskScriptRunner - INFO -   Época [4/10] - Loss: 0.0193
+2025-11-03 15:34:58,665 - TaskScriptRunner - INFO -   Época [5/10] - Loss: 0.0122
+2025-11-03 15:34:58,814 - TaskScriptRunner - INFO -   Época [6/10] - Loss: 0.0034
+2025-11-03 15:34:58,962 - TaskScriptRunner - INFO -   Época [7/10] - Loss: 0.0009
+2025-11-03 15:34:59,140 - TaskScriptRunner - INFO -   Época [8/10] - Loss: 0.0002
+2025-11-03 15:34:59,345 - TaskScriptRunner - INFO -   Época [9/10] - Loss: 0.0002
+2025-11-03 15:34:59,582 - TaskScriptRunner - INFO -   Época [10/10] - Loss: 0.0002
+2025-11-03 15:35:01,441 - TaskScriptRunner - INFO - 📤 Modelo enviado: 170 steps, accuracy=0.9852
+2025-11-03 15:35:15,693 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=8662e0ef-76d5-4c38-8fb1-a4112131edb1] - execute for task (train)
+2025-11-03 15:35:15,694 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=8662e0ef-76d5-4c38-8fb1-a4112131edb1] - send data to peer
+2025-11-03 15:35:15,695 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=8662e0ef-76d5-4c38-8fb1-a4112131edb1] - sending payload to peer
+2025-11-03 15:35:15,696 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=8662e0ef-76d5-4c38-8fb1-a4112131edb1] - Waiting for result from peer
+2025-11-03 15:35:16,192 - TaskScriptRunner - INFO -   Época [1/10] - Loss: 0.0798
+2025-11-03 15:35:16,407 - TaskScriptRunner - INFO -   Época [2/10] - Loss: 0.0259
+2025-11-03 15:35:16,672 - TaskScriptRunner - INFO -   Época [3/10] - Loss: 0.0050
+2025-11-03 15:35:16,930 - TaskScriptRunner - INFO -   Época [4/10] - Loss: 0.0025
+2025-11-03 15:35:17,138 - TaskScriptRunner - INFO -   Época [5/10] - Loss: 0.0008
+2025-11-03 15:35:17,543 - TaskScriptRunner - INFO -   Época [6/10] - Loss: 0.0004
+2025-11-03 15:35:17,845 - TaskScriptRunner - INFO -   Época [7/10] - Loss: 0.0003
+2025-11-03 15:35:18,080 - TaskScriptRunner - INFO -   Época [8/10] - Loss: 0.0002
+2025-11-03 15:35:18,371 - TaskScriptRunner - INFO -   Época [9/10] - Loss: 0.0002
+2025-11-03 15:35:18,566 - TaskScriptRunner - INFO -   Época [10/10] - Loss: 0.0002
+2025-11-03 15:35:20,089 - TaskScriptRunner - INFO - 📤 Modelo enviado: 170 steps, accuracy=0.9868
+2025-11-03 15:35:31,921 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=fd06dc91-3d57-4b84-9a46-008496ca3f87] - execute for task (train)
+2025-11-03 15:35:31,922 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=fd06dc91-3d57-4b84-9a46-008496ca3f87] - send data to peer
+2025-11-03 15:35:31,922 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=fd06dc91-3d57-4b84-9a46-008496ca3f87] - sending payload to peer
+2025-11-03 15:35:31,922 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=fd06dc91-3d57-4b84-9a46-008496ca3f87] - Waiting for result from peer
+2025-11-03 15:35:32,245 - TaskScriptRunner - INFO -   Época [1/10] - Loss: 0.0545
+2025-11-03 15:35:32,361 - TaskScriptRunner - INFO -   Época [2/10] - Loss: 0.0697
+2025-11-03 15:35:32,494 - TaskScriptRunner - INFO -   Época [3/10] - Loss: 0.0196
+2025-11-03 15:35:32,622 - TaskScriptRunner - INFO -   Época [4/10] - Loss: 0.0095
+2025-11-03 15:35:32,752 - TaskScriptRunner - INFO -   Época [5/10] - Loss: 0.0018
+2025-11-03 15:35:32,882 - TaskScriptRunner - INFO -   Época [6/10] - Loss: 0.0004
+2025-11-03 15:35:33,029 - TaskScriptRunner - INFO -   Época [7/10] - Loss: 0.0003
+2025-11-03 15:35:33,206 - TaskScriptRunner - INFO -   Época [8/10] - Loss: 0.0002
+2025-11-03 15:35:33,379 - TaskScriptRunner - INFO -   Época [9/10] - Loss: 0.0002
+2025-11-03 15:35:33,524 - TaskScriptRunner - INFO -   Época [10/10] - Loss: 0.0002
+2025-11-03 15:35:35,737 - TaskScriptRunner - INFO - 📤 Modelo enviado: 170 steps, accuracy=0.9866
+2025-11-03 15:35:50,216 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=aafd0a36-ee02-4a00-9a8f-1af906e373f2] - execute for task (train)
+2025-11-03 15:35:50,216 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=aafd0a36-ee02-4a00-9a8f-1af906e373f2] - send data to peer
+2025-11-03 15:35:50,217 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=aafd0a36-ee02-4a00-9a8f-1af906e373f2] - sending payload to peer
+2025-11-03 15:35:50,218 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=aafd0a36-ee02-4a00-9a8f-1af906e373f2] - Waiting for result from peer
+2025-11-03 15:35:50,426 - TaskScriptRunner - INFO -   Época [1/10] - Loss: 0.0645
+2025-11-03 15:35:50,627 - TaskScriptRunner - INFO -   Época [2/10] - Loss: 0.0404
+2025-11-03 15:35:50,946 - TaskScriptRunner - INFO -   Época [3/10] - Loss: 0.0141
+2025-11-03 15:35:51,140 - TaskScriptRunner - INFO -   Época [4/10] - Loss: 0.0046
+2025-11-03 15:35:51,392 - TaskScriptRunner - INFO -   Época [5/10] - Loss: 0.0005
+2025-11-03 15:35:51,608 - TaskScriptRunner - INFO -   Época [6/10] - Loss: 0.0003
+2025-11-03 15:35:51,920 - TaskScriptRunner - INFO -   Época [7/10] - Loss: 0.0002
+2025-11-03 15:35:52,159 - TaskScriptRunner - INFO -   Época [8/10] - Loss: 0.0002
+2025-11-03 15:35:52,385 - TaskScriptRunner - INFO -   Época [9/10] - Loss: 0.0002
+2025-11-03 15:35:52,595 - TaskScriptRunner - INFO -   Época [10/10] - Loss: 0.0001
+2025-11-03 15:35:54,254 - TaskScriptRunner - INFO - 📤 Modelo enviado: 170 steps, accuracy=0.9850
+2025-11-03 15:36:05,923 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=1b09d856-b989-4d0d-abf4-c49345e1e2c6] - execute for task (train)
+2025-11-03 15:36:05,923 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=1b09d856-b989-4d0d-abf4-c49345e1e2c6] - send data to peer
+2025-11-03 15:36:05,924 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=1b09d856-b989-4d0d-abf4-c49345e1e2c6] - sending payload to peer
+2025-11-03 15:36:05,924 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=1b09d856-b989-4d0d-abf4-c49345e1e2c6] - Waiting for result from peer
+2025-11-03 15:36:06,483 - TaskScriptRunner - INFO -   Época [1/10] - Loss: 0.0549
+2025-11-03 15:36:06,663 - TaskScriptRunner - INFO -   Época [2/10] - Loss: 0.0428
+2025-11-03 15:36:06,798 - TaskScriptRunner - INFO -   Época [3/10] - Loss: 0.0191
+2025-11-03 15:36:06,959 - TaskScriptRunner - INFO -   Época [4/10] - Loss: 0.0079
+2025-11-03 15:36:07,110 - TaskScriptRunner - INFO -   Época [5/10] - Loss: 0.0029
+2025-11-03 15:36:07,287 - TaskScriptRunner - INFO -   Época [6/10] - Loss: 0.0003
+2025-11-03 15:36:07,482 - TaskScriptRunner - INFO -   Época [7/10] - Loss: 0.0003
+2025-11-03 15:36:07,715 - TaskScriptRunner - INFO -   Época [8/10] - Loss: 0.0002
+2025-11-03 15:36:07,956 - TaskScriptRunner - INFO -   Época [9/10] - Loss: 0.0002
+2025-11-03 15:36:08,166 - TaskScriptRunner - INFO -   Época [10/10] - Loss: 0.0002
+2025-11-03 15:36:10,153 - TaskScriptRunner - INFO - 📤 Modelo enviado: 170 steps, accuracy=0.9860
+2025-11-03 15:36:24,646 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=fd75bc95-7b0d-49f6-91b5-a7140aebcf8b] - execute for task (train)
+2025-11-03 15:36:24,647 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=fd75bc95-7b0d-49f6-91b5-a7140aebcf8b] - send data to peer
+2025-11-03 15:36:24,647 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=fd75bc95-7b0d-49f6-91b5-a7140aebcf8b] - sending payload to peer
+2025-11-03 15:36:24,649 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=fd75bc95-7b0d-49f6-91b5-a7140aebcf8b] - Waiting for result from peer
+2025-11-03 15:36:24,858 - TaskScriptRunner - INFO -   Época [1/10] - Loss: 0.0701
+2025-11-03 15:36:25,044 - TaskScriptRunner - INFO -   Época [2/10] - Loss: 0.0375
+2025-11-03 15:36:25,253 - TaskScriptRunner - INFO -   Época [3/10] - Loss: 0.0203
+2025-11-03 15:36:25,499 - TaskScriptRunner - INFO -   Época [4/10] - Loss: 0.0029
+2025-11-03 15:36:25,844 - TaskScriptRunner - INFO -   Época [5/10] - Loss: 0.0008
+2025-11-03 15:36:26,115 - TaskScriptRunner - INFO -   Época [6/10] - Loss: 0.0004
+2025-11-03 15:36:26,414 - TaskScriptRunner - INFO -   Época [7/10] - Loss: 0.0003
+2025-11-03 15:36:26,675 - TaskScriptRunner - INFO -   Época [8/10] - Loss: 0.0002
+2025-11-03 15:36:26,879 - TaskScriptRunner - INFO -   Época [9/10] - Loss: 0.0002
+2025-11-03 15:36:27,124 - TaskScriptRunner - INFO -   Época [10/10] - Loss: 0.0002
+2025-11-03 15:36:28,819 - TaskScriptRunner - INFO - 📤 Modelo enviado: 170 steps, accuracy=0.9850
+2025-11-03 15:36:40,352 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=a89ef731-7497-4856-8962-d1617e19fadc] - execute for task (train)
+2025-11-03 15:36:40,353 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=a89ef731-7497-4856-8962-d1617e19fadc] - send data to peer
+2025-11-03 15:36:40,353 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=a89ef731-7497-4856-8962-d1617e19fadc] - sending payload to peer
+2025-11-03 15:36:40,354 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=a89ef731-7497-4856-8962-d1617e19fadc] - Waiting for result from peer
+2025-11-03 15:36:40,996 - TaskScriptRunner - INFO -   Época [1/10] - Loss: 0.0652
+2025-11-03 15:36:41,133 - TaskScriptRunner - INFO -   Época [2/10] - Loss: 0.0228
+2025-11-03 15:36:41,305 - TaskScriptRunner - INFO -   Época [3/10] - Loss: 0.0076
+2025-11-03 15:36:41,466 - TaskScriptRunner - INFO -   Época [4/10] - Loss: 0.0011
+2025-11-03 15:36:41,650 - TaskScriptRunner - INFO -   Época [5/10] - Loss: 0.0020
+2025-11-03 15:36:41,902 - TaskScriptRunner - INFO -   Época [6/10] - Loss: 0.0005
+2025-11-03 15:36:42,051 - TaskScriptRunner - INFO -   Época [7/10] - Loss: 0.0004
+2025-11-03 15:36:42,362 - TaskScriptRunner - INFO -   Época [8/10] - Loss: 0.0003
+2025-11-03 15:36:42,670 - TaskScriptRunner - INFO -   Época [9/10] - Loss: 0.0002
+2025-11-03 15:36:42,935 - TaskScriptRunner - INFO -   Época [10/10] - Loss: 0.0002
+2025-11-03 15:36:44,836 - TaskScriptRunner - INFO - 📤 Modelo enviado: 170 steps, accuracy=0.9870
+2025-11-03 15:36:59,114 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=c0bd2a72-e2ff-4a4c-bffe-eb2cb50c6b31] - execute for task (train)
+2025-11-03 15:36:59,115 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=c0bd2a72-e2ff-4a4c-bffe-eb2cb50c6b31] - send data to peer
+2025-11-03 15:36:59,115 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=c0bd2a72-e2ff-4a4c-bffe-eb2cb50c6b31] - sending payload to peer
+2025-11-03 15:36:59,117 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=c0bd2a72-e2ff-4a4c-bffe-eb2cb50c6b31] - Waiting for result from peer
+2025-11-03 15:36:59,564 - TaskScriptRunner - INFO -   Época [1/10] - Loss: 0.0878
+2025-11-03 15:36:59,746 - TaskScriptRunner - INFO -   Época [2/10] - Loss: 0.1070
+2025-11-03 15:36:59,974 - TaskScriptRunner - INFO -   Época [3/10] - Loss: 0.0070
+2025-11-03 15:37:00,160 - TaskScriptRunner - INFO -   Época [4/10] - Loss: 0.0043
+2025-11-03 15:37:00,387 - TaskScriptRunner - INFO -   Época [5/10] - Loss: 0.0015
+2025-11-03 15:37:00,575 - TaskScriptRunner - INFO -   Época [6/10] - Loss: 0.0004
+2025-11-03 15:37:00,744 - TaskScriptRunner - INFO -   Época [7/10] - Loss: 0.0003
+2025-11-03 15:37:00,940 - TaskScriptRunner - INFO -   Época [8/10] - Loss: 0.0002
+2025-11-03 15:37:01,184 - TaskScriptRunner - INFO -   Época [9/10] - Loss: 0.0002
+2025-11-03 15:37:01,446 - TaskScriptRunner - INFO -   Época [10/10] - Loss: 0.0002
+2025-11-03 15:37:03,113 - TaskScriptRunner - INFO - 📤 Modelo enviado: 170 steps, accuracy=0.9839
+2025-11-03 15:37:14,825 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=117ebe41-d495-4819-b275-950050256c54] - execute for task (train)
+2025-11-03 15:37:14,825 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=117ebe41-d495-4819-b275-950050256c54] - send data to peer
+2025-11-03 15:37:14,826 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=117ebe41-d495-4819-b275-950050256c54] - sending payload to peer
+2025-11-03 15:37:14,826 - PTInProcessClientAPIExecutor - INFO - [identity=site-10, run=simulate_job, peer=simulator_server, peer_run=simulate_job, task_name=train, task_id=117ebe41-d495-4819-b275-950050256c54] - Waiting for result from peer
+2025-11-03 15:37:15,336 - TaskScriptRunner - INFO -   Época [1/10] - Loss: 0.0514
+2025-11-03 15:37:15,465 - TaskScriptRunner - INFO -   Época [2/10] - Loss: 0.0233
+2025-11-03 15:37:15,600 - TaskScriptRunner - INFO -   Época [3/10] - Loss: 0.0038
+2025-11-03 15:37:15,750 - TaskScriptRunner - INFO -   Época [4/10] - Loss: 0.0014
+2025-11-03 15:37:15,888 - TaskScriptRunner - INFO -   Época [5/10] - Loss: 0.0003
+2025-11-03 15:37:16,029 - TaskScriptRunner - INFO -   Época [6/10] - Loss: 0.0002
+2025-11-03 15:37:16,181 - TaskScriptRunner - INFO -   Época [7/10] - Loss: 0.0002
+2025-11-03 15:37:16,345 - TaskScriptRunner - INFO -   Época [8/10] - Loss: 0.0002
+2025-11-03 15:37:16,513 - TaskScriptRunner - INFO -   Época [9/10] - Loss: 0.0002
+2025-11-03 15:37:16,700 - TaskScriptRunner - INFO -   Época [10/10] - Loss: 0.0002
+2025-11-03 15:37:19,011 - TaskScriptRunner - INFO - 📤 Modelo enviado: 170 steps, accuracy=0.9862
+2025-11-03 15:37:33,627 - InProcessClientAPI - WARNING - ask to stop job: reason: END_RUN received
+2025-11-03 15:37:34,032 - InProcessClientAPI - WARNING - request to stop the job for reason END_RUN received
